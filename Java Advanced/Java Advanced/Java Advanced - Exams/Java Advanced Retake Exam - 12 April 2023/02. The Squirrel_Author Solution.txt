@@ -1,0 +1,95 @@
+package com.company;
+
+import java.util.Scanner;
+
+public class Main {
+    private static int hazelnuts = 0;
+    private static int row;
+    private static int col;
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        int size = Integer.parseInt(scanner.nextLine());
+        String[] commands = scanner.nextLine().split(", ");
+        char[][] field = createMatrix(size, scanner);
+
+        for (int i = 0; i < commands.length; i++) {
+            String command = commands[i];
+            boolean isValidPosition = false;
+            switch (command) {
+                case "left":
+                    isValidPosition = moveSquirrel(row, col - 1, row, col - 2, field);
+                    break;
+                case "right":
+                    isValidPosition = moveSquirrel(row, col + 1, row, col + 2, field);
+                    break;
+                case "up":
+                    isValidPosition = moveSquirrel(row - 1, col, row - 2, col, field);
+                    break;
+                case "down":
+                    isValidPosition = moveSquirrel(row + 1, col, row + 2, col, field);
+                    break;
+            }
+
+            if (!isValidPosition){
+                if (isOutOfBounds(row,col, field)){
+                    System.out.println("The squirrel is out of the field.");
+                    System.out.println("Hazelnuts: ");
+                }else {
+                    System.out.println("Unfortunately, the squirrel steps on a trap...");
+                }
+                printMatrix(field);
+                return;
+            }
+        }
+
+        if (hazelnuts == 3){
+            System.out.println("Good job! You have eaten all hazelnuts!");
+        }else {
+            System.out.println("There are more hazelnuts to eat.");
+        }
+        printMatrix(field);
+    }
+
+    private static boolean moveSquirrel(int newRow, int newCol, char[][] matrix) {
+        if (isOutOfBounds(newRow, newCol, matrix)) {
+            matrix[row][col] = '*';
+            row = newRow;
+            col = newCol;
+            return false;
+        }
+        char symbol = matrix[newRow][newCol];
+        if (symbol == 't') {
+            matrix[row][col] = '*';
+            return false;
+        } else {
+            if (symbol == 'h') {
+                hazelnuts++;
+            }
+            matrix[row][col] = '*';
+            matrix[newRow][newCol] = 's';
+            row = newRow;
+            col = newCol;
+        }
+        return true;
+    }
+    private static boolean isOutOfBounds(int newRow, int newCol, char[][] matrix) {
+        return newRow < 0 || newRow >= matrix.length || newCol < 0 || newCol >= matrix[newRow].length;
+    }
+    private static char[][] createMatrix(int size, Scanner scanner) {
+        char[][] matrix = new char[size][size];
+        for (int i = 0; i < size; i++) {
+            String[] line = scanner.nextLine().split("");
+            for (int j = 0; j < line.length; j++) {
+                char symbol = line[j].charAt(0);
+                if (symbol == 's') {
+                    row = i;
+                    col = j;
+                }
+                matrix[i][j] = symbol;
+            }
+        }
+        return matrix;
+    }
+}
