@@ -1,0 +1,128 @@
+import java.util.Scanner;
+
+public class RallyRacing {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        int numberInput = Integer.parseInt(scanner.nextLine());
+        String racingCarNumber = scanner.nextLine();
+        boolean finished = false;
+        int totalKm = 0;
+        String[][] matrix = getMatrix(scanner, numberInput);
+        int firstTunnelRow = getCoordinates(matrix, "row", null, null);
+        int firstTunnelCol = getCoordinates(matrix, "col", null, null);
+        int secondTunnelRow = getCoordinates(matrix, "row", firstTunnelRow, firstTunnelCol);
+        int secondTunnelCol = getCoordinates(matrix, "col", firstTunnelRow, firstTunnelCol);
+        int currRow = 0;
+        int currCol = 0;
+
+        String currentCommand = scanner.nextLine();
+        while (!currentCommand.equals("End")) {
+            switch (currentCommand) {
+                case "up":
+                    if (IsInBoundaries(matrix, currRow - 1, currCol)) {
+                        currRow -= 1;
+                    }
+                    break;
+                case "down":
+                    if (IsInBoundaries(matrix, currRow + 1, currCol)) {
+                        currRow += 1;
+                    }
+                    break;
+                case "left":
+                    if (IsInBoundaries(matrix, currRow, currCol - 1)) {
+                        currCol -= 1;
+                    }
+                    break;
+                case "right":
+                    if (IsInBoundaries(matrix, currRow, currCol + 1)) {
+                        currCol += 1;
+                    }
+                    break;
+            }
+            if (!finished) {
+                totalKm += 10;
+            }
+            if (matrix[currRow][currCol].equals("F")) {
+                matrix[currRow][currCol] = "C";
+                finished = true;
+            } else if (matrix[currRow][currCol].equals("T")) {
+                if (currRow == firstTunnelRow && currCol == firstTunnelCol) {
+                    currRow = secondTunnelRow;
+                    currCol = secondTunnelCol;
+                } else {
+                    currRow = firstTunnelRow;
+                    currCol = firstTunnelCol;
+                }
+                if (!finished) {
+                    totalKm += 20;
+                    matrix[firstTunnelRow][firstTunnelCol] = ".";
+                    matrix[secondTunnelRow][secondTunnelCol] = ".";
+                }
+            }
+            currentCommand = scanner.nextLine();
+        }
+        if (finished) {
+            System.out.printf("Racing car %s finished the stage!%n", racingCarNumber);
+        } else {
+            matrix[currRow][currCol] = "C";
+            System.out.printf("Racing car %s DNF.%n", racingCarNumber);
+        }
+        System.out.printf("Distance covered %d km.%n", totalKm);
+        printMatrix(matrix);
+    }
+
+    private static boolean IsInBoundaries(String[][] matrix, int row, int col) {
+        return (row >= 0 && row < matrix.length) && (col >= 0 && col < matrix[row].length);
+    }
+
+    private static String[][] getMatrix(Scanner scanner, int rows) {
+        String[][] matrix = new String[rows][rows];
+        for (int row = 0; row < matrix.length; row++) {
+            matrix[row] = scanner.nextLine().split("\\s+");
+        }
+        return matrix;
+    }
+
+    private static void printMatrix(String[][] matrix) {
+        for (int r = 0; r < matrix.length; r++) {
+            StringBuilder CurrentRow = new StringBuilder();
+            for (int c = 0; c < matrix[r].length; c++) {
+                CurrentRow.append(matrix[r][c]);
+            }
+            System.out.println(CurrentRow.toString());
+        }
+    }
+
+    private static int getCoordinates(String[][] matrix, String part,
+                                      Integer firstTunnelRow, Integer firstTunnelCol) {
+        boolean foundCoordinates = false;
+        int Row = 0;
+        int Col = 0;
+        for (int r = 0; r < matrix.length; r++) {
+            for (int c = 0; c < matrix[r].length; c++) {
+                if (matrix[r][c].matches("T")) {
+                    if (firstTunnelRow == null && firstTunnelCol == null){
+                        Row = r;
+                        Col = c;
+                        foundCoordinates = true;
+                    } else if(firstTunnelRow.intValue() != r || firstTunnelCol.intValue() != c){
+                        Row = r;
+                        Col = c;
+                        foundCoordinates = true;
+                    }
+                }
+                if (foundCoordinates) {
+                    break;
+                }
+            }
+            if (foundCoordinates) {
+                break;
+            }
+        }
+        if (part.equals("row")) {
+            return Row;
+        } else {
+            return Col;
+        }
+    }
+}

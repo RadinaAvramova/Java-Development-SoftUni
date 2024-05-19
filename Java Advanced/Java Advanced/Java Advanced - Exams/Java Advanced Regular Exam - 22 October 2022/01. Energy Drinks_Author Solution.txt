@@ -1,0 +1,43 @@
+import java.util.ArrayDeque;
+import java.util.Arrays;
+import java.util.Scanner;
+
+public class EnergyDrinks {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        ArrayDeque<Integer> milligramsSequence = new ArrayDeque<>();
+        ArrayDeque<Integer> energyDrinksSequence = new ArrayDeque<>();
+        int maximumCaffeineInput = 300;
+        int totalCaffeineInput = 0;
+        Arrays.stream(scanner.nextLine().split(",\\s+"))
+                .mapToInt(Integer::parseInt).forEach(milligramsSequence::push);
+        Arrays.stream(scanner.nextLine().split(",\\s+"))
+                .mapToInt(Integer::parseInt).forEach(energyDrinksSequence::offer);
+
+        while (!milligramsSequence.isEmpty() && !energyDrinksSequence.isEmpty()) {
+            int currentMilligrams = milligramsSequence.peek();
+            int currentEnergyDrink = energyDrinksSequence.peek();
+            int currentCalculatedAmount = currentMilligrams * currentEnergyDrink;
+            if (currentCalculatedAmount + totalCaffeineInput <= maximumCaffeineInput) {
+                totalCaffeineInput += currentCalculatedAmount;
+                milligramsSequence.pop();
+                energyDrinksSequence.poll();
+            } else {
+                milligramsSequence.pop();
+                energyDrinksSequence.poll();
+                energyDrinksSequence.offer(currentEnergyDrink);
+                if (totalCaffeineInput >= 30) {
+                    totalCaffeineInput -= 30;
+                }
+            }
+        }
+        if (!energyDrinksSequence.isEmpty()) {
+            System.out.printf("Drinks left: %s%n", String.join(", ", Arrays.asList(energyDrinksSequence.toString().
+                    substring(1, energyDrinksSequence.toString().length() - 1))));
+        } else {
+            System.out.println("At least Stamat wasn't exceeding the maximum caffeine.");
+        }
+        System.out.printf("Stamat is going to sleep with %s mg caffeine.", totalCaffeineInput);
+    }
+}
