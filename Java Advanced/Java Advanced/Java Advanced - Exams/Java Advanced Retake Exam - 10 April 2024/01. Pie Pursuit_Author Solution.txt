@@ -1,0 +1,56 @@
+package JavaAdvancedRetakeApr2024;
+
+import java.util.*;
+
+public class Pie_Pursuit {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        String[] contestantsInput = scanner.nextLine().split(" ");
+        ArrayDeque<Integer> contestants = new ArrayDeque<>();
+        for (String contestant : contestantsInput) {
+            contestants.offer(Integer.parseInt(contestant));
+        }
+
+        String[] piesInput = scanner.nextLine().split(" ");
+        Stack<Integer> pies = new Stack<>();
+        for (String pie : piesInput) {
+            pies.push(Integer.parseInt(pie));
+        }
+
+        while (!contestants.isEmpty() && !pies.isEmpty()) {
+            int contestant = contestants.poll();
+            int pie = pies.pop();
+
+            if (contestant >= pie) {
+                contestant -= pie;
+                if (contestant > 0) {
+                    contestants.offer(contestant);
+                }
+            } else {
+                pie -= contestant;
+                if (!pies.isEmpty()) {
+                    if (pie == 1) {
+                        pies.push(pies.pop() + 1);
+                    } else {
+                        pies.push(pie);
+                    }
+                } else {
+                    pies.push(pie);
+                }
+            }
+        }
+
+        if (pies.isEmpty()) {
+            if (!contestants.isEmpty()) {
+                System.out.println("We will have to wait for more pies to be baked!");
+                System.out.println("Contestants left: " + contestants.toString().replaceAll("[\\[\\]]", ""));
+            } else {
+                System.out.println("We have a champion!");
+            }
+        } else {
+            System.out.println("Our contestants need to rest!");
+            System.out.println("Pies left: " + pies.toString().replaceAll("[\\[\\]]", ""));
+        }
+    }
+}

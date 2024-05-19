@@ -1,0 +1,114 @@
+package JavaAdvancedRetakeApr2024;
+
+import java.util.Scanner;
+
+public class EscapeTheMaze {
+
+    private static int health = 100;
+    private static boolean escapeTheMaze = false;
+
+    public static void main(String[] args) {
+
+        Scanner scanner = new Scanner(System.in);
+
+        int size = Integer.parseInt(scanner.nextLine());
+        char[][] maze = new char[size][size];
+
+        fillMatrix(scanner, size, maze);
+
+        int[] currentPosition = findStartPosition(size, maze);
+
+
+        while (true) {
+            if (escapeTheMaze) {
+                assert currentPosition != null;
+                System.out.println("Player escaped the maze. Danger passed!");
+                break;
+            }
+            if (health <= 0) {
+                health = 0;
+                assert currentPosition != null;
+                System.out.println("Player is dead. Maze over!");
+                break;
+            }
+            String command = scanner.nextLine();
+
+            assert currentPosition != null;
+            moveTraveller(command, currentPosition, maze, size);
+            handleCurrentPosition(currentPosition, maze);
+        }
+        System.out.println("Player's health: " + health + " units");
+        printMatrix(maze);
+
+    }
+    private static void fillMatrix(Scanner scanner, int size, char[][] board) {
+        for (int i = 0; i < size; i++) {
+            board[i] = scanner.nextLine().toCharArray();
+        }
+    }
+
+    private static int[] findStartPosition(int size, char[][] fishingArea) {
+        for (int i = 0; i < size; i++) {
+            for (int j = 0; j < size; j++) {
+                if (fishingArea[i][j] == 'P') {
+                    return new int[]{i, j};
+                }
+            }
+        }
+        return null;
+    }
+
+    private static void moveTraveller(String command, int[] position, char[][] maze, int size) {
+
+        int row = position[0];
+        int col = position[1];
+        maze[row][col] = '-';
+
+        int newRow = row;
+        int newCol = col;
+
+        switch (command) {
+            case "up":
+                newRow = Math.max(0, row - 1);
+                break;
+            case "down":
+                newRow = Math.min(size - 1, row + 1);
+                break;
+            case "left":
+                newCol = Math.max(0, col - 1);
+                break;
+            case "right":
+                newCol = Math.min(size - 1, col + 1);
+                break;
+        }
+        if (newRow >= 0 && newRow < size && newCol >= 0 && newCol < size) {
+            position[0] = newRow;
+            position[1] = newCol;
+        }
+    }
+
+    private static void handleCurrentPosition(int[] position, char[][] board) {
+        char currentChar = board[position[0]][position[1]];
+
+        switch (currentChar) {
+            case 'M':
+                health -= 40;
+                break;
+            case 'H':
+                health += 15;
+                if (health > 100) {
+                    health = 100;
+                }
+                break;
+            case 'X':
+                escapeTheMaze = true;
+                break;
+        }
+        board[position[0]][position[1]] = 'P';
+    }
+    private static void printMatrix(char[][] maze) {
+        for (char[] chars : maze) {
+            System.out.println(chars);
+        }
+    }
+}
