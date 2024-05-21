@@ -1,0 +1,16 @@
+Awesome! Lives left: 4
+Awesome! Lives left: 5
+Ouch! That hurt! Lives left: 4
+Ouch! That hurt! Lives left: 3
+Ouch! That hurt! Lives left: 2
+Ouch! That hurt! Lives left: 1
+Awesome! Lives left: 2
+Ouch! That hurt! Lives left: 1
+Awesome! Lives left: 2
+Ouch! That hurt! Lives left: 1
+Awesome! Lives left: 2
+Made a move!
+Ouch! That hurt! Lives left: 1
+Ouch! That hurt! Lives left: 0
+No lives left! Game Over!
+Total moves made: 14

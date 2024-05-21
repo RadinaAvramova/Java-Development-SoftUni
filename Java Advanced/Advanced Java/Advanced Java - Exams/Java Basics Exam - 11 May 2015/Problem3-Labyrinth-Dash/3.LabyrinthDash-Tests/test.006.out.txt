@@ -1,0 +1,4 @@
+Awesome! Lives left: 4
+Made a move!
+Fell off a cliff! Game Over!
+Total moves made: 3

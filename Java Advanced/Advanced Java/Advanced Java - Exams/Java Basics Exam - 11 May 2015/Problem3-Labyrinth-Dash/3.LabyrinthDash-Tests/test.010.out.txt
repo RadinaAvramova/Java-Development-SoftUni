@@ -1,0 +1,2 @@
+Awesome! Lives left: 4
+Total moves made: 1

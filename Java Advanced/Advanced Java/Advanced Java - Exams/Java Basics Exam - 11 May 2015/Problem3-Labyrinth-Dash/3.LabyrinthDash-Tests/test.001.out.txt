@@ -1,0 +1,18 @@
+Made a move!
+Made a move!
+Ouch! That hurt! Lives left: 2
+Ouch! That hurt! Lives left: 1
+Awesome! Lives left: 2
+Ouch! That hurt! Lives left: 1
+Awesome! Lives left: 2
+Ouch! That hurt! Lives left: 1
+Awesome! Lives left: 2
+Made a move!
+Bumped a wall.
+Bumped a wall.
+Made a move!
+Ouch! That hurt! Lives left: 1
+Made a move!
+Ouch! That hurt! Lives left: 0
+No lives left! Game Over!
+Total moves made: 14

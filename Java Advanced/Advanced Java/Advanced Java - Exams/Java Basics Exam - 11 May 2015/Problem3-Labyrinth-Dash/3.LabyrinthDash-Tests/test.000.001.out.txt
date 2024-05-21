@@ -1,0 +1,11 @@
+Bumped a wall.
+Made a move!
+Made a move!
+Bumped a wall.
+Made a move!
+Ouch! That hurt! Lives left: 2
+Ouch! That hurt! Lives left: 1
+Made a move!
+Made a move!
+Fell off a cliff! Game Over!
+Total moves made: 8
