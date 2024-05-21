@@ -1,0 +1,36 @@
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (0, 5) with (3, 5)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (1, 5) with (4, 5)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (2, 5) with (5, 5)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (5, 0) with (5, 2)
+Swap (5, 1) with (5, 3)
+Swap (5, 2) with (5, 4)
+Swap (5, 3) with (5, 5)
+No swap required
+No swap required

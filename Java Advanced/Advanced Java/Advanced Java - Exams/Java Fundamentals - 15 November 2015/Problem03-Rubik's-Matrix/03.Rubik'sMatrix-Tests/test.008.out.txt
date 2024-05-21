@@ -1,0 +1,9 @@
+Swap (0, 0) with (1, 2)
+Swap (0, 1) with (1, 0)
+Swap (0, 2) with (1, 2)
+No swap required
+Swap (1, 1) with (2, 1)
+Swap (1, 2) with (2, 0)
+Swap (2, 0) with (2, 2)
+No swap required
+No swap required

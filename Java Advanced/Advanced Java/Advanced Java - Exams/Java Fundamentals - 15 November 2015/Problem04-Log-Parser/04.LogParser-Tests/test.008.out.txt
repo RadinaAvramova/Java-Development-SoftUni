@@ -1,0 +1,116 @@
+project4:
+Total Errors: 20
+Critical: 9
+Warnings: 11
+Critical Messages:
+--->R
+--->S
+--->T
+--->U
+--->V
+--->W
+--->X
+--->Y
+--->Z
+Warning Messages:
+--->Q
+--->Q
+--->R
+--->S
+--->T
+--->U
+--->V
+--->W
+--->X
+--->Y
+--->Z
+
+project5:
+Total Errors: 20
+Critical: 10
+Warnings: 10
+Critical Messages:
+--->Q
+--->R
+--->S
+--->T
+--->U
+--->V
+--->W
+--->X
+--->Y
+--->Z
+Warning Messages:
+--->Q
+--->S
+--->T
+--->U
+--->V
+--->W
+--->X
+--->X
+--->Y
+--->Z
+
+project3:
+Total Errors: 16
+Critical: 8
+Warnings: 8
+Critical Messages:
+--->S
+--->T
+--->U
+--->V
+--->W
+--->X
+--->Y
+--->Z
+Warning Messages:
+--->S
+--->T
+--->U
+--->V
+--->W
+--->X
+--->Y
+--->Z
+
+project2:
+Total Errors: 14
+Critical: 7
+Warnings: 7
+Critical Messages:
+--->T
+--->U
+--->V
+--->W
+--->X
+--->Y
+--->Z
+Warning Messages:
+--->T
+--->U
+--->V
+--->W
+--->X
+--->Y
+--->Z
+
+project1:
+Total Errors: 12
+Critical: 6
+Warnings: 6
+Critical Messages:
+--->A
+--->AB
+--->ABC
+--->ABCD
+--->ABCDE
+--->ABCDEF
+Warning Messages:
+--->A
+--->AB
+--->ABC
+--->ABCD
+--->ABCDE
+--->ABCDEF

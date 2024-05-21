@@ -1,0 +1,8 @@
+Project:
+Total Errors: 1
+Critical: 1
+Warnings: 0
+Critical Messages:
+--->Message
+Warning Messages:
+--->None

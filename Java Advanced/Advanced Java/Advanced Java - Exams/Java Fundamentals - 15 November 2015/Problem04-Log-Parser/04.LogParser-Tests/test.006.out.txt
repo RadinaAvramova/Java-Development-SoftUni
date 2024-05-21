@@ -1,0 +1,116 @@
+" 			":
+Total Errors: 2
+Critical: 1
+Warnings: 1
+Critical Messages:
+---> 			"
+Warning Messages:
+---> 			"
+
+"          ":
+Total Errors: 2
+Critical: 1
+Warnings: 1
+Critical Messages:
+--->          "
+Warning Messages:
+--->          "
+
+"         ":
+Total Errors: 2
+Critical: 1
+Warnings: 1
+Critical Messages:
+--->         "
+Warning Messages:
+--->         "
+
+"        ":
+Total Errors: 2
+Critical: 1
+Warnings: 1
+Critical Messages:
+--->        "
+Warning Messages:
+--->        "
+
+"       ":
+Total Errors: 2
+Critical: 1
+Warnings: 1
+Critical Messages:
+--->       "
+Warning Messages:
+--->       "
+
+"      ":
+Total Errors: 2
+Critical: 1
+Warnings: 1
+Critical Messages:
+--->      "
+Warning Messages:
+--->      "
+
+"     ":
+Total Errors: 2
+Critical: 1
+Warnings: 1
+Critical Messages:
+--->     "
+Warning Messages:
+--->     "
+
+"    ":
+Total Errors: 2
+Critical: 1
+Warnings: 1
+Critical Messages:
+--->    "
+Warning Messages:
+--->    "
+
+"  ":
+Total Errors: 2
+Critical: 1
+Warnings: 1
+Critical Messages:
+--->  "
+Warning Messages:
+--->  "
+
+" ":
+Total Errors: 2
+Critical: 1
+Warnings: 1
+Critical Messages:
+---> "
+Warning Messages:
+---> "
+
+"   ":
+Total Errors: 1
+Critical: 0
+Warnings: 1
+Critical Messages:
+--->None
+Warning Messages:
+--->   "
+
+"IT'S A":
+Total Errors: 1
+Critical: 1
+Warnings: 0
+Critical Messages:
+--->"PLANE"
+Warning Messages:
+--->None
+
+"WITH":
+Total Errors: 1
+Critical: 0
+Warnings: 1
+Critical Messages:
+--->None
+Warning Messages:
+--->"ROCKETS"

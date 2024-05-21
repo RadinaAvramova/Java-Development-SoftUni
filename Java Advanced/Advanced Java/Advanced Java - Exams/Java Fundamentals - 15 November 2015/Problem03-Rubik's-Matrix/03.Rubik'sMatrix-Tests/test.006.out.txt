@@ -1,0 +1,25 @@
+Swap (0, 0) with (4, 4)
+Swap (0, 1) with (4, 4)
+Swap (0, 2) with (4, 4)
+Swap (0, 3) with (4, 4)
+Swap (0, 4) with (4, 4)
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (1, 4) with (4, 4)
+Swap (2, 0) with (2, 1)
+Swap (2, 1) with (2, 2)
+Swap (2, 2) with (2, 3)
+Swap (2, 3) with (2, 4)
+Swap (2, 4) with (4, 4)
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (3, 4) with (4, 4)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required

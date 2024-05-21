@@ -1,0 +1,10000 @@
+No swap required
+No swap required
+Swap (0, 2) with (3, 2)
+No swap required
+No swap required
+Swap (0, 5) with (8, 5)
+No swap required
+No swap required
+No swap required
+Swap (0, 9) with (77, 9)
+No swap required
+No swap required
+No swap required
+Swap (0, 13) with (23, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (0, 19) with (1, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (0, 55) with (6, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (0, 88) with (98, 88)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (1, 0) with (1, 2)
+No swap required
+Swap (1, 2) with (4, 2)
+Swap (1, 3) with (1, 5)
+Swap (1, 4) with (1, 6)
+Swap (1, 5) with (9, 5)
+Swap (1, 6) with (1, 8)
+Swap (1, 7) with (78, 9)
+Swap (1, 8) with (1, 10)
+Swap (1, 9) with (1, 11)
+Swap (1, 10) with (1, 12)
+Swap (1, 11) with (1, 13)
+Swap (1, 12) with (1, 14)
+Swap (1, 13) with (24, 13)
+Swap (1, 14) with (1, 16)
+Swap (1, 15) with (1, 17)
+Swap (1, 16) with (1, 18)
+Swap (1, 17) with (2, 19)
+Swap (1, 18) with (1, 20)
+Swap (1, 19) with (1, 21)
+Swap (1, 20) with (1, 22)
+Swap (1, 21) with (1, 23)
+Swap (1, 22) with (1, 24)
+Swap (1, 23) with (1, 25)
+Swap (1, 24) with (1, 26)
+Swap (1, 25) with (1, 27)
+Swap (1, 26) with (1, 28)
+Swap (1, 27) with (1, 29)
+Swap (1, 28) with (1, 30)
+Swap (1, 29) with (1, 31)
+Swap (1, 30) with (1, 32)
+Swap (1, 31) with (1, 33)
+Swap (1, 32) with (1, 34)
+Swap (1, 33) with (1, 35)
+Swap (1, 34) with (1, 36)
+Swap (1, 35) with (1, 37)
+Swap (1, 36) with (1, 38)
+Swap (1, 37) with (1, 39)
+Swap (1, 38) with (1, 40)
+Swap (1, 39) with (1, 41)
+Swap (1, 40) with (1, 42)
+Swap (1, 41) with (1, 43)
+Swap (1, 42) with (1, 44)
+Swap (1, 43) with (1, 45)
+Swap (1, 44) with (1, 46)
+Swap (1, 45) with (1, 47)
+Swap (1, 46) with (1, 48)
+Swap (1, 47) with (1, 49)
+Swap (1, 48) with (1, 50)
+Swap (1, 49) with (1, 51)
+Swap (1, 50) with (1, 52)
+Swap (1, 51) with (1, 53)
+Swap (1, 52) with (1, 54)
+Swap (1, 53) with (99, 55)
+Swap (1, 54) with (1, 56)
+Swap (1, 55) with (7, 55)
+Swap (1, 56) with (1, 58)
+Swap (1, 57) with (1, 59)
+Swap (1, 58) with (1, 60)
+Swap (1, 59) with (1, 61)
+Swap (1, 60) with (1, 62)
+Swap (1, 61) with (1, 63)
+Swap (1, 62) with (1, 64)
+Swap (1, 63) with (1, 65)
+Swap (1, 64) with (1, 66)
+Swap (1, 65) with (1, 67)
+Swap (1, 66) with (1, 68)
+Swap (1, 67) with (1, 69)
+Swap (1, 68) with (1, 70)
+Swap (1, 69) with (1, 71)
+Swap (1, 70) with (1, 72)
+Swap (1, 71) with (1, 73)
+Swap (1, 72) with (1, 74)
+Swap (1, 73) with (1, 75)
+Swap (1, 74) with (1, 76)
+Swap (1, 75) with (1, 77)
+Swap (1, 76) with (1, 78)
+Swap (1, 77) with (1, 79)
+Swap (1, 78) with (1, 80)
+Swap (1, 79) with (1, 81)
+Swap (1, 80) with (1, 82)
+Swap (1, 81) with (1, 83)
+Swap (1, 82) with (1, 84)
+Swap (1, 83) with (1, 85)
+Swap (1, 84) with (1, 86)
+Swap (1, 85) with (1, 87)
+Swap (1, 86) with (99, 88)
+Swap (1, 87) with (1, 89)
+Swap (1, 88) with (1, 90)
+Swap (1, 89) with (1, 91)
+Swap (1, 90) with (1, 92)
+Swap (1, 91) with (1, 93)
+Swap (1, 92) with (1, 94)
+Swap (1, 93) with (1, 95)
+Swap (1, 94) with (1, 96)
+Swap (1, 95) with (1, 97)
+Swap (1, 96) with (1, 98)
+Swap (1, 97) with (1, 99)
+Swap (1, 98) with (4, 2)
+Swap (1, 99) with (99, 1)
+No swap required
+No swap required
+Swap (2, 2) with (5, 2)
+No swap required
+No swap required
+Swap (2, 5) with (10, 5)
+No swap required
+No swap required
+No swap required
+Swap (2, 9) with (79, 9)
+No swap required
+No swap required
+No swap required
+Swap (2, 13) with (25, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (2, 19) with (3, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (2, 55) with (8, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (2, 88) with (98, 88)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (3, 2) with (6, 2)
+No swap required
+No swap required
+Swap (3, 5) with (11, 5)
+No swap required
+No swap required
+No swap required
+Swap (3, 9) with (80, 9)
+No swap required
+No swap required
+No swap required
+Swap (3, 13) with (26, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (3, 19) with (4, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (3, 55) with (9, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (3, 88) with (4, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (4, 2) with (7, 2)
+No swap required
+No swap required
+Swap (4, 5) with (12, 10)
+No swap required
+No swap required
+No swap required
+Swap (4, 9) with (81, 9)
+No swap required
+No swap required
+No swap required
+Swap (4, 13) with (27, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (4, 19) with (5, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (4, 55) with (12, 60)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (4, 88) with (98, 88)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (5, 2) with (8, 2)
+No swap required
+No swap required
+Swap (5, 5) with (13, 5)
+No swap required
+No swap required
+No swap required
+Swap (5, 9) with (82, 9)
+No swap required
+No swap required
+No swap required
+Swap (5, 13) with (28, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (5, 19) with (6, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (5, 55) with (11, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (5, 88) with (7, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (6, 2) with (9, 2)
+No swap required
+No swap required
+Swap (6, 5) with (14, 5)
+No swap required
+No swap required
+No swap required
+Swap (6, 9) with (83, 9)
+No swap required
+No swap required
+No swap required
+Swap (6, 13) with (29, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (6, 19) with (7, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (6, 55) with (12, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (6, 88) with (98, 88)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (7, 2) with (10, 2)
+No swap required
+No swap required
+Swap (7, 5) with (15, 5)
+No swap required
+No swap required
+No swap required
+Swap (7, 9) with (84, 9)
+No swap required
+No swap required
+No swap required
+Swap (7, 13) with (30, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (7, 19) with (8, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (7, 55) with (13, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (7, 88) with (10, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (8, 2) with (11, 2)
+No swap required
+No swap required
+Swap (8, 5) with (16, 5)
+No swap required
+No swap required
+No swap required
+Swap (8, 9) with (85, 9)
+No swap required
+No swap required
+No swap required
+Swap (8, 13) with (31, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (8, 19) with (9, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (8, 55) with (14, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (8, 88) with (98, 88)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (9, 2) with (12, 7)
+No swap required
+No swap required
+Swap (9, 5) with (17, 5)
+No swap required
+No swap required
+No swap required
+Swap (9, 9) with (86, 9)
+No swap required
+No swap required
+No swap required
+Swap (9, 13) with (32, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (9, 19) with (10, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (9, 55) with (15, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (9, 88) with (10, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (10, 1) with (12, 6)
+Swap (10, 2) with (13, 2)
+No swap required
+No swap required
+Swap (10, 5) with (18, 5)
+No swap required
+No swap required
+No swap required
+Swap (10, 9) with (87, 9)
+No swap required
+No swap required
+No swap required
+Swap (10, 13) with (33, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (10, 19) with (11, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (10, 55) with (16, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (10, 88) with (98, 88)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (11, 2) with (14, 2)
+No swap required
+No swap required
+Swap (11, 5) with (19, 5)
+No swap required
+No swap required
+No swap required
+Swap (11, 9) with (88, 9)
+No swap required
+No swap required
+No swap required
+Swap (11, 13) with (34, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (11, 19) with (12, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (11, 55) with (17, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (11, 88) with (13, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (12, 0) with (12, 5)
+No swap required
+Swap (12, 2) with (15, 2)
+Swap (12, 3) with (12, 8)
+Swap (12, 4) with (89, 9)
+Swap (12, 5) with (20, 5)
+Swap (12, 6) with (12, 11)
+Swap (12, 7) with (12, 12)
+Swap (12, 8) with (12, 13)
+Swap (12, 9) with (12, 14)
+Swap (12, 10) with (12, 15)
+Swap (12, 11) with (12, 16)
+Swap (12, 12) with (12, 17)
+Swap (12, 13) with (35, 13)
+Swap (12, 14) with (13, 19)
+Swap (12, 15) with (12, 20)
+Swap (12, 16) with (12, 21)
+Swap (12, 17) with (12, 22)
+Swap (12, 18) with (12, 23)
+Swap (12, 19) with (12, 24)
+Swap (12, 20) with (12, 25)
+Swap (12, 21) with (12, 26)
+Swap (12, 22) with (12, 27)
+Swap (12, 23) with (12, 28)
+Swap (12, 24) with (12, 29)
+Swap (12, 25) with (12, 30)
+Swap (12, 26) with (12, 31)
+Swap (12, 27) with (12, 32)
+Swap (12, 28) with (12, 33)
+Swap (12, 29) with (12, 34)
+Swap (12, 30) with (12, 35)
+Swap (12, 31) with (12, 36)
+Swap (12, 32) with (12, 37)
+Swap (12, 33) with (12, 38)
+Swap (12, 34) with (12, 39)
+Swap (12, 35) with (12, 40)
+Swap (12, 36) with (12, 41)
+Swap (12, 37) with (12, 42)
+Swap (12, 38) with (12, 43)
+Swap (12, 39) with (12, 44)
+Swap (12, 40) with (12, 45)
+Swap (12, 41) with (12, 46)
+Swap (12, 42) with (12, 47)
+Swap (12, 43) with (12, 48)
+Swap (12, 44) with (12, 49)
+Swap (12, 45) with (12, 50)
+Swap (12, 46) with (12, 51)
+Swap (12, 47) with (12, 52)
+Swap (12, 48) with (12, 53)
+Swap (12, 49) with (12, 54)
+Swap (12, 50) with (16, 55)
+Swap (12, 51) with (12, 56)
+Swap (12, 52) with (12, 57)
+Swap (12, 53) with (12, 58)
+Swap (12, 54) with (12, 59)
+Swap (12, 55) with (18, 55)
+Swap (12, 56) with (12, 61)
+Swap (12, 57) with (12, 62)
+Swap (12, 58) with (12, 63)
+Swap (12, 59) with (12, 64)
+Swap (12, 60) with (12, 65)
+Swap (12, 61) with (12, 66)
+Swap (12, 62) with (12, 67)
+Swap (12, 63) with (12, 68)
+Swap (12, 64) with (12, 69)
+Swap (12, 65) with (12, 70)
+Swap (12, 66) with (12, 71)
+Swap (12, 67) with (12, 72)
+Swap (12, 68) with (12, 73)
+Swap (12, 69) with (12, 74)
+Swap (12, 70) with (12, 75)
+Swap (12, 71) with (12, 76)
+Swap (12, 72) with (12, 77)
+Swap (12, 73) with (12, 78)
+Swap (12, 74) with (12, 79)
+Swap (12, 75) with (12, 80)
+Swap (12, 76) with (12, 81)
+Swap (12, 77) with (12, 82)
+Swap (12, 78) with (12, 83)
+Swap (12, 79) with (12, 84)
+Swap (12, 80) with (12, 85)
+Swap (12, 81) with (12, 86)
+Swap (12, 82) with (12, 87)
+Swap (12, 83) with (98, 88)
+Swap (12, 84) with (12, 89)
+Swap (12, 85) with (12, 90)
+Swap (12, 86) with (12, 91)
+Swap (12, 87) with (12, 92)
+Swap (12, 88) with (12, 93)
+Swap (12, 89) with (12, 94)
+Swap (12, 90) with (12, 95)
+Swap (12, 91) with (12, 96)
+Swap (12, 92) with (12, 97)
+Swap (12, 93) with (12, 98)
+Swap (12, 94) with (12, 99)
+Swap (12, 95) with (20, 5)
+No swap required
+Swap (12, 97) with (15, 2)
+Swap (12, 98) with (35, 13)
+Swap (12, 99) with (89, 9)
+No swap required
+No swap required
+Swap (13, 2) with (16, 2)
+No swap required
+No swap required
+Swap (13, 5) with (21, 5)
+No swap required
+No swap required
+No swap required
+Swap (13, 9) with (90, 9)
+No swap required
+No swap required
+No swap required
+Swap (13, 13) with (36, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (13, 19) with (14, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (13, 55) with (19, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (13, 88) with (16, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (14, 2) with (17, 2)
+No swap required
+No swap required
+Swap (14, 5) with (22, 5)
+No swap required
+No swap required
+No swap required
+Swap (14, 9) with (91, 9)
+No swap required
+No swap required
+No swap required
+Swap (14, 13) with (37, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (14, 19) with (15, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (14, 55) with (20, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (14, 88) with (35, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (15, 2) with (18, 2)
+No swap required
+No swap required
+Swap (15, 5) with (23, 5)
+No swap required
+No swap required
+No swap required
+Swap (15, 9) with (92, 9)
+No swap required
+No swap required
+No swap required
+Swap (15, 13) with (38, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (15, 19) with (16, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (15, 55) with (21, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (15, 88) with (16, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (16, 2) with (19, 2)
+No swap required
+No swap required
+Swap (16, 5) with (24, 5)
+No swap required
+No swap required
+No swap required
+Swap (16, 9) with (93, 9)
+No swap required
+No swap required
+No swap required
+Swap (16, 13) with (39, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (16, 19) with (17, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (16, 55) with (22, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (16, 88) with (35, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (17, 2) with (20, 2)
+No swap required
+No swap required
+Swap (17, 5) with (25, 5)
+No swap required
+No swap required
+No swap required
+Swap (17, 9) with (94, 9)
+No swap required
+No swap required
+No swap required
+Swap (17, 13) with (40, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (17, 19) with (18, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (17, 55) with (23, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (17, 88) with (19, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (18, 2) with (21, 2)
+No swap required
+No swap required
+Swap (18, 5) with (26, 5)
+No swap required
+No swap required
+No swap required
+Swap (18, 9) with (95, 9)
+No swap required
+No swap required
+No swap required
+Swap (18, 13) with (41, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (18, 19) with (19, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (18, 55) with (24, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (18, 88) with (35, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (19, 2) with (22, 2)
+No swap required
+No swap required
+Swap (19, 5) with (27, 5)
+No swap required
+No swap required
+No swap required
+Swap (19, 9) with (96, 9)
+No swap required
+No swap required
+No swap required
+Swap (19, 13) with (42, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (19, 19) with (20, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (19, 55) with (25, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (19, 88) with (22, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (20, 2) with (23, 2)
+No swap required
+No swap required
+Swap (20, 5) with (28, 5)
+No swap required
+No swap required
+No swap required
+Swap (20, 9) with (97, 9)
+No swap required
+No swap required
+No swap required
+Swap (20, 13) with (43, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (20, 19) with (21, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (20, 55) with (26, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (20, 88) with (35, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (21, 2) with (24, 2)
+No swap required
+No swap required
+Swap (21, 5) with (29, 5)
+No swap required
+No swap required
+No swap required
+Swap (21, 9) with (98, 9)
+No swap required
+No swap required
+No swap required
+Swap (21, 13) with (44, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (21, 19) with (22, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (21, 55) with (27, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (21, 88) with (22, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (22, 2) with (25, 2)
+No swap required
+No swap required
+Swap (22, 5) with (30, 5)
+No swap required
+No swap required
+No swap required
+Swap (22, 9) with (99, 9)
+No swap required
+No swap required
+No swap required
+Swap (22, 13) with (45, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (22, 19) with (23, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (22, 55) with (28, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (22, 88) with (35, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (23, 2) with (26, 2)
+No swap required
+No swap required
+Swap (23, 5) with (31, 5)
+No swap required
+No swap required
+No swap required
+Swap (23, 9) with (77, 9)
+No swap required
+No swap required
+No swap required
+Swap (23, 13) with (46, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (23, 19) with (24, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (23, 55) with (29, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (23, 88) with (25, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (24, 2) with (27, 2)
+No swap required
+No swap required
+Swap (24, 5) with (32, 5)
+No swap required
+No swap required
+No swap required
+Swap (24, 9) with (24, 13)
+No swap required
+No swap required
+No swap required
+Swap (24, 13) with (47, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (24, 19) with (25, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (24, 55) with (30, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (24, 88) with (35, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (25, 2) with (28, 2)
+No swap required
+No swap required
+Swap (25, 5) with (33, 5)
+No swap required
+No swap required
+No swap required
+Swap (25, 9) with (79, 9)
+No swap required
+No swap required
+No swap required
+Swap (25, 13) with (48, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (25, 19) with (26, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (25, 55) with (31, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (25, 88) with (28, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (26, 2) with (29, 2)
+No swap required
+No swap required
+Swap (26, 5) with (34, 5)
+No swap required
+No swap required
+No swap required
+Swap (26, 9) with (80, 9)
+No swap required
+No swap required
+No swap required
+Swap (26, 13) with (49, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (26, 19) with (27, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (26, 55) with (32, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (26, 88) with (35, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (27, 2) with (30, 2)
+No swap required
+No swap required
+Swap (27, 5) with (35, 5)
+No swap required
+No swap required
+No swap required
+Swap (27, 9) with (81, 9)
+No swap required
+No swap required
+No swap required
+Swap (27, 13) with (50, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (27, 19) with (28, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (27, 55) with (33, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (27, 88) with (28, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (28, 2) with (31, 2)
+No swap required
+No swap required
+Swap (28, 5) with (36, 5)
+No swap required
+No swap required
+No swap required
+Swap (28, 9) with (82, 9)
+No swap required
+No swap required
+No swap required
+Swap (28, 13) with (51, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (28, 19) with (29, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (28, 55) with (34, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (28, 88) with (35, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (29, 2) with (32, 2)
+No swap required
+No swap required
+Swap (29, 5) with (37, 5)
+No swap required
+No swap required
+No swap required
+Swap (29, 9) with (83, 9)
+No swap required
+No swap required
+No swap required
+Swap (29, 13) with (52, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (29, 19) with (30, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (29, 55) with (35, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (29, 88) with (31, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (30, 2) with (33, 2)
+No swap required
+No swap required
+Swap (30, 5) with (38, 5)
+No swap required
+No swap required
+No swap required
+Swap (30, 9) with (84, 9)
+No swap required
+No swap required
+No swap required
+Swap (30, 13) with (53, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (30, 19) with (31, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (30, 55) with (36, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (30, 88) with (35, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (31, 2) with (34, 2)
+No swap required
+No swap required
+Swap (31, 5) with (39, 5)
+No swap required
+No swap required
+No swap required
+Swap (31, 9) with (85, 9)
+No swap required
+No swap required
+No swap required
+Swap (31, 13) with (54, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (31, 19) with (32, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (31, 55) with (37, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (31, 88) with (34, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (32, 2) with (35, 2)
+No swap required
+No swap required
+Swap (32, 5) with (40, 5)
+No swap required
+No swap required
+No swap required
+Swap (32, 9) with (86, 9)
+No swap required
+No swap required
+No swap required
+Swap (32, 13) with (55, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (32, 19) with (33, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (32, 55) with (38, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (32, 88) with (35, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (33, 2) with (36, 2)
+No swap required
+No swap required
+Swap (33, 5) with (41, 5)
+No swap required
+No swap required
+No swap required
+Swap (33, 9) with (87, 9)
+No swap required
+No swap required
+No swap required
+Swap (33, 13) with (56, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (33, 19) with (34, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (33, 55) with (39, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (33, 88) with (34, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (34, 2) with (37, 2)
+No swap required
+No swap required
+Swap (34, 5) with (42, 5)
+No swap required
+No swap required
+No swap required
+Swap (34, 9) with (88, 9)
+No swap required
+No swap required
+No swap required
+Swap (34, 13) with (57, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (34, 19) with (35, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (34, 55) with (40, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (34, 88) with (35, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (35, 2) with (38, 2)
+No swap required
+No swap required
+Swap (35, 5) with (43, 5)
+No swap required
+No swap required
+No swap required
+Swap (35, 9) with (35, 19)
+No swap required
+No swap required
+No swap required
+Swap (35, 13) with (58, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (35, 19) with (36, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (35, 55) with (41, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (35, 88) with (37, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (36, 2) with (39, 2)
+No swap required
+No swap required
+Swap (36, 5) with (44, 5)
+No swap required
+No swap required
+No swap required
+Swap (36, 9) with (90, 9)
+No swap required
+No swap required
+No swap required
+Swap (36, 13) with (59, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (36, 19) with (37, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (36, 55) with (42, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (36, 88) with (58, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (37, 2) with (40, 2)
+No swap required
+No swap required
+Swap (37, 5) with (45, 5)
+No swap required
+No swap required
+No swap required
+Swap (37, 9) with (91, 9)
+No swap required
+No swap required
+No swap required
+Swap (37, 13) with (60, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (37, 19) with (38, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (37, 55) with (43, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (37, 88) with (40, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (38, 2) with (41, 2)
+No swap required
+No swap required
+Swap (38, 5) with (46, 5)
+No swap required
+No swap required
+No swap required
+Swap (38, 9) with (92, 9)
+No swap required
+No swap required
+No swap required
+Swap (38, 13) with (61, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (38, 19) with (39, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (38, 55) with (44, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (38, 88) with (58, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (39, 2) with (42, 2)
+No swap required
+No swap required
+Swap (39, 5) with (47, 5)
+No swap required
+No swap required
+No swap required
+Swap (39, 9) with (93, 9)
+No swap required
+No swap required
+No swap required
+Swap (39, 13) with (62, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (39, 19) with (40, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (39, 55) with (45, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (39, 88) with (40, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (40, 2) with (43, 2)
+No swap required
+No swap required
+Swap (40, 5) with (48, 5)
+No swap required
+No swap required
+No swap required
+Swap (40, 9) with (94, 9)
+No swap required
+No swap required
+No swap required
+Swap (40, 13) with (63, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (40, 19) with (41, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (40, 55) with (46, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (40, 88) with (58, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (41, 2) with (44, 2)
+No swap required
+No swap required
+Swap (41, 5) with (49, 5)
+No swap required
+No swap required
+No swap required
+Swap (41, 9) with (95, 9)
+No swap required
+No swap required
+No swap required
+Swap (41, 13) with (64, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (41, 19) with (42, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (41, 55) with (47, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (41, 88) with (43, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (42, 2) with (45, 2)
+No swap required
+No swap required
+Swap (42, 5) with (50, 5)
+No swap required
+No swap required
+No swap required
+Swap (42, 9) with (96, 9)
+No swap required
+No swap required
+No swap required
+Swap (42, 13) with (65, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (42, 19) with (43, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (42, 55) with (48, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (42, 88) with (58, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (43, 2) with (46, 2)
+No swap required
+No swap required
+Swap (43, 5) with (51, 5)
+No swap required
+No swap required
+No swap required
+Swap (43, 9) with (97, 9)
+No swap required
+No swap required
+No swap required
+Swap (43, 13) with (66, 16)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (43, 19) with (44, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (43, 55) with (49, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (43, 88) with (46, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (44, 2) with (47, 2)
+No swap required
+No swap required
+Swap (44, 5) with (52, 5)
+No swap required
+No swap required
+No swap required
+Swap (44, 9) with (98, 9)
+No swap required
+No swap required
+No swap required
+Swap (44, 13) with (67, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (44, 19) with (45, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (44, 55) with (50, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (44, 88) with (58, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (45, 2) with (48, 2)
+No swap required
+No swap required
+Swap (45, 5) with (53, 5)
+No swap required
+No swap required
+No swap required
+Swap (45, 9) with (99, 9)
+No swap required
+No swap required
+No swap required
+Swap (45, 13) with (68, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (45, 19) with (46, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (45, 55) with (51, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (45, 88) with (46, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (46, 2) with (49, 2)
+No swap required
+No swap required
+Swap (46, 5) with (54, 5)
+No swap required
+No swap required
+No swap required
+Swap (46, 9) with (77, 9)
+No swap required
+No swap required
+No swap required
+Swap (46, 13) with (69, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (46, 19) with (47, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (46, 55) with (52, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (46, 88) with (58, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (47, 2) with (50, 2)
+No swap required
+No swap required
+Swap (47, 5) with (55, 5)
+No swap required
+No swap required
+No swap required
+Swap (47, 9) with (47, 13)
+No swap required
+No swap required
+No swap required
+Swap (47, 13) with (70, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (47, 19) with (48, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (47, 55) with (53, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (47, 88) with (49, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (48, 2) with (51, 2)
+No swap required
+No swap required
+Swap (48, 5) with (56, 5)
+No swap required
+No swap required
+No swap required
+Swap (48, 9) with (79, 9)
+No swap required
+No swap required
+No swap required
+Swap (48, 13) with (71, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (48, 19) with (49, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (48, 55) with (54, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (48, 88) with (58, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (49, 2) with (52, 2)
+No swap required
+No swap required
+Swap (49, 5) with (57, 5)
+No swap required
+No swap required
+No swap required
+Swap (49, 9) with (80, 9)
+No swap required
+No swap required
+No swap required
+Swap (49, 13) with (72, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (49, 19) with (50, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (49, 55) with (55, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (49, 88) with (52, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (50, 2) with (53, 2)
+No swap required
+No swap required
+Swap (50, 5) with (58, 5)
+No swap required
+No swap required
+No swap required
+Swap (50, 9) with (81, 9)
+No swap required
+No swap required
+No swap required
+Swap (50, 13) with (73, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (50, 19) with (51, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (50, 55) with (56, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (50, 88) with (58, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (51, 2) with (54, 2)
+No swap required
+No swap required
+Swap (51, 5) with (59, 5)
+No swap required
+No swap required
+No swap required
+Swap (51, 9) with (82, 9)
+No swap required
+No swap required
+No swap required
+Swap (51, 13) with (74, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (51, 19) with (52, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (51, 55) with (57, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (51, 88) with (52, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (52, 2) with (55, 2)
+No swap required
+No swap required
+Swap (52, 5) with (60, 5)
+No swap required
+No swap required
+No swap required
+Swap (52, 9) with (83, 9)
+No swap required
+No swap required
+No swap required
+Swap (52, 13) with (75, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (52, 19) with (53, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (52, 55) with (58, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (52, 88) with (58, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (53, 2) with (56, 2)
+No swap required
+No swap required
+Swap (53, 5) with (61, 5)
+No swap required
+No swap required
+No swap required
+Swap (53, 9) with (84, 9)
+No swap required
+No swap required
+No swap required
+Swap (53, 13) with (76, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (53, 19) with (54, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (53, 55) with (59, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (53, 88) with (55, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (54, 2) with (57, 2)
+No swap required
+No swap required
+Swap (54, 5) with (62, 5)
+No swap required
+No swap required
+No swap required
+Swap (54, 9) with (85, 9)
+No swap required
+No swap required
+No swap required
+Swap (54, 13) with (77, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (54, 19) with (55, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (54, 55) with (60, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (54, 88) with (58, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (55, 2) with (58, 2)
+No swap required
+No swap required
+Swap (55, 5) with (63, 5)
+No swap required
+No swap required
+No swap required
+Swap (55, 9) with (86, 9)
+No swap required
+No swap required
+No swap required
+Swap (55, 13) with (78, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (55, 19) with (56, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (55, 55) with (61, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (55, 88) with (58, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (56, 2) with (59, 2)
+No swap required
+No swap required
+Swap (56, 5) with (64, 5)
+No swap required
+No swap required
+No swap required
+Swap (56, 9) with (87, 9)
+No swap required
+No swap required
+No swap required
+Swap (56, 13) with (79, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (56, 19) with (57, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (56, 55) with (62, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (56, 88) with (58, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (57, 2) with (60, 2)
+No swap required
+No swap required
+Swap (57, 5) with (65, 5)
+No swap required
+No swap required
+No swap required
+Swap (57, 9) with (88, 9)
+No swap required
+No swap required
+No swap required
+Swap (57, 13) with (80, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (57, 19) with (58, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (57, 55) with (63, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (57, 88) with (58, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (58, 2) with (61, 2)
+No swap required
+No swap required
+Swap (58, 5) with (66, 8)
+No swap required
+No swap required
+No swap required
+Swap (58, 9) with (58, 19)
+No swap required
+No swap required
+No swap required
+Swap (58, 13) with (81, 15)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (58, 19) with (59, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (58, 55) with (66, 58)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (58, 88) with (81, 15)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (59, 2) with (62, 2)
+No swap required
+No swap required
+Swap (59, 5) with (67, 5)
+No swap required
+No swap required
+No swap required
+Swap (59, 9) with (90, 9)
+No swap required
+No swap required
+No swap required
+Swap (59, 13) with (82, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (59, 19) with (60, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (59, 55) with (65, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (59, 88) with (61, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (60, 2) with (63, 2)
+No swap required
+No swap required
+Swap (60, 5) with (68, 5)
+No swap required
+No swap required
+No swap required
+Swap (60, 9) with (91, 9)
+No swap required
+No swap required
+No swap required
+Swap (60, 13) with (83, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (60, 19) with (61, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (60, 55) with (66, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (60, 88) with (81, 15)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (61, 2) with (64, 2)
+No swap required
+No swap required
+Swap (61, 5) with (69, 5)
+No swap required
+No swap required
+No swap required
+Swap (61, 9) with (92, 9)
+No swap required
+No swap required
+No swap required
+Swap (61, 13) with (84, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (61, 19) with (62, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (61, 55) with (67, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (61, 88) with (64, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (62, 2) with (65, 2)
+No swap required
+No swap required
+Swap (62, 5) with (70, 5)
+No swap required
+No swap required
+No swap required
+Swap (62, 9) with (93, 9)
+No swap required
+No swap required
+No swap required
+Swap (62, 13) with (85, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (62, 19) with (63, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (62, 55) with (68, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (62, 88) with (81, 15)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (63, 2) with (66, 5)
+No swap required
+No swap required
+Swap (63, 5) with (71, 5)
+No swap required
+No swap required
+No swap required
+Swap (63, 9) with (94, 9)
+No swap required
+No swap required
+No swap required
+Swap (63, 13) with (86, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (63, 19) with (64, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (63, 55) with (69, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (63, 88) with (64, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (64, 1) with (66, 4)
+Swap (64, 2) with (67, 2)
+No swap required
+No swap required
+Swap (64, 5) with (72, 5)
+No swap required
+No swap required
+No swap required
+Swap (64, 9) with (95, 9)
+No swap required
+No swap required
+No swap required
+Swap (64, 13) with (87, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (64, 19) with (65, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (64, 55) with (70, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (64, 88) with (81, 15)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (65, 2) with (68, 2)
+No swap required
+No swap required
+Swap (65, 5) with (73, 5)
+No swap required
+No swap required
+No swap required
+Swap (65, 9) with (96, 9)
+No swap required
+No swap required
+No swap required
+Swap (65, 13) with (88, 3)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (65, 19) with (66, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (65, 55) with (71, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (65, 88) with (67, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (66, 0) with (66, 3)
+No swap required
+Swap (66, 2) with (69, 2)
+Swap (66, 3) with (66, 6)
+Swap (66, 4) with (66, 7)
+Swap (66, 5) with (74, 5)
+Swap (66, 6) with (97, 9)
+Swap (66, 7) with (66, 10)
+Swap (66, 8) with (66, 11)
+Swap (66, 9) with (66, 12)
+Swap (66, 10) with (66, 13)
+Swap (66, 11) with (66, 14)
+Swap (66, 12) with (66, 15)
+Swap (66, 13) with (89, 13)
+Swap (66, 14) with (66, 17)
+Swap (66, 15) with (66, 18)
+Swap (66, 16) with (67, 19)
+Swap (66, 17) with (66, 20)
+Swap (66, 18) with (66, 21)
+Swap (66, 19) with (66, 22)
+Swap (66, 20) with (66, 23)
+Swap (66, 21) with (66, 24)
+Swap (66, 22) with (66, 25)
+Swap (66, 23) with (66, 26)
+Swap (66, 24) with (66, 27)
+Swap (66, 25) with (66, 28)
+Swap (66, 26) with (66, 29)
+Swap (66, 27) with (66, 30)
+Swap (66, 28) with (66, 31)
+Swap (66, 29) with (66, 32)
+Swap (66, 30) with (66, 33)
+Swap (66, 31) with (66, 34)
+Swap (66, 32) with (66, 35)
+Swap (66, 33) with (66, 36)
+Swap (66, 34) with (66, 37)
+Swap (66, 35) with (66, 38)
+Swap (66, 36) with (66, 39)
+Swap (66, 37) with (66, 40)
+Swap (66, 38) with (66, 41)
+Swap (66, 39) with (66, 42)
+Swap (66, 40) with (66, 43)
+Swap (66, 41) with (66, 44)
+Swap (66, 42) with (66, 45)
+Swap (66, 43) with (66, 46)
+Swap (66, 44) with (66, 47)
+Swap (66, 45) with (66, 48)
+Swap (66, 46) with (66, 49)
+Swap (66, 47) with (66, 50)
+Swap (66, 48) with (66, 51)
+Swap (66, 49) with (66, 52)
+Swap (66, 50) with (66, 53)
+Swap (66, 51) with (66, 54)
+Swap (66, 52) with (70, 55)
+Swap (66, 53) with (66, 56)
+Swap (66, 54) with (66, 57)
+Swap (66, 55) with (72, 55)
+Swap (66, 56) with (66, 59)
+Swap (66, 57) with (66, 60)
+Swap (66, 58) with (66, 61)
+Swap (66, 59) with (66, 62)
+Swap (66, 60) with (66, 63)
+Swap (66, 61) with (66, 64)
+Swap (66, 62) with (66, 65)
+Swap (66, 63) with (66, 66)
+Swap (66, 64) with (66, 67)
+Swap (66, 65) with (66, 68)
+Swap (66, 66) with (66, 69)
+Swap (66, 67) with (66, 70)
+Swap (66, 68) with (66, 71)
+Swap (66, 69) with (66, 72)
+Swap (66, 70) with (66, 73)
+Swap (66, 71) with (66, 74)
+Swap (66, 72) with (66, 75)
+Swap (66, 73) with (66, 76)
+Swap (66, 74) with (66, 77)
+Swap (66, 75) with (66, 78)
+Swap (66, 76) with (66, 79)
+Swap (66, 77) with (66, 80)
+Swap (66, 78) with (66, 81)
+Swap (66, 79) with (66, 82)
+Swap (66, 80) with (66, 83)
+Swap (66, 81) with (66, 84)
+Swap (66, 82) with (66, 85)
+Swap (66, 83) with (66, 86)
+Swap (66, 84) with (66, 87)
+Swap (66, 85) with (81, 15)
+Swap (66, 86) with (66, 89)
+Swap (66, 87) with (66, 90)
+Swap (66, 88) with (66, 91)
+Swap (66, 89) with (66, 92)
+Swap (66, 90) with (66, 93)
+Swap (66, 91) with (66, 94)
+Swap (66, 92) with (66, 95)
+Swap (66, 93) with (66, 96)
+Swap (66, 94) with (66, 97)
+Swap (66, 95) with (66, 98)
+Swap (66, 96) with (66, 99)
+Swap (66, 97) with (97, 9)
+Swap (66, 98) with (89, 13)
+Swap (66, 99) with (69, 2)
+No swap required
+No swap required
+Swap (67, 2) with (70, 2)
+No swap required
+No swap required
+Swap (67, 5) with (75, 5)
+No swap required
+No swap required
+No swap required
+Swap (67, 9) with (98, 9)
+No swap required
+No swap required
+No swap required
+Swap (67, 13) with (90, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (67, 19) with (68, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (67, 55) with (73, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (67, 88) with (70, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (68, 2) with (71, 2)
+No swap required
+No swap required
+Swap (68, 5) with (76, 5)
+No swap required
+No swap required
+No swap required
+Swap (68, 9) with (99, 9)
+No swap required
+No swap required
+No swap required
+Swap (68, 13) with (91, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (68, 19) with (69, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (68, 55) with (74, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (68, 88) with (97, 9)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (69, 2) with (72, 2)
+No swap required
+No swap required
+Swap (69, 5) with (77, 5)
+No swap required
+No swap required
+No swap required
+Swap (69, 9) with (77, 9)
+No swap required
+No swap required
+No swap required
+Swap (69, 13) with (92, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (69, 19) with (70, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (69, 55) with (75, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (69, 88) with (70, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (70, 2) with (73, 2)
+No swap required
+No swap required
+Swap (70, 5) with (78, 5)
+No swap required
+No swap required
+No swap required
+Swap (70, 9) with (70, 13)
+No swap required
+No swap required
+No swap required
+Swap (70, 13) with (93, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (70, 19) with (71, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (70, 55) with (76, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (70, 88) with (97, 9)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (71, 2) with (74, 2)
+No swap required
+No swap required
+Swap (71, 5) with (79, 5)
+No swap required
+No swap required
+No swap required
+Swap (71, 9) with (79, 9)
+No swap required
+No swap required
+No swap required
+Swap (71, 13) with (94, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (71, 19) with (72, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (71, 55) with (77, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (71, 88) with (73, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (72, 2) with (75, 2)
+No swap required
+No swap required
+Swap (72, 5) with (80, 5)
+No swap required
+No swap required
+No swap required
+Swap (72, 9) with (80, 9)
+No swap required
+No swap required
+No swap required
+Swap (72, 13) with (95, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (72, 19) with (73, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (72, 55) with (78, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (72, 88) with (97, 9)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (73, 2) with (76, 2)
+No swap required
+No swap required
+Swap (73, 5) with (81, 7)
+No swap required
+No swap required
+No swap required
+Swap (73, 9) with (81, 9)
+No swap required
+No swap required
+No swap required
+Swap (73, 13) with (96, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (73, 19) with (74, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (73, 55) with (81, 57)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (73, 88) with (76, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (74, 2) with (77, 2)
+No swap required
+No swap required
+Swap (74, 5) with (82, 5)
+No swap required
+No swap required
+No swap required
+Swap (74, 9) with (82, 9)
+No swap required
+No swap required
+No swap required
+Swap (74, 13) with (97, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (74, 19) with (75, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (74, 55) with (80, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (74, 88) with (97, 9)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (75, 2) with (78, 2)
+No swap required
+No swap required
+Swap (75, 5) with (83, 5)
+No swap required
+No swap required
+No swap required
+Swap (75, 9) with (83, 9)
+No swap required
+No swap required
+No swap required
+Swap (75, 13) with (98, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (75, 19) with (76, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (75, 55) with (81, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (75, 88) with (76, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (76, 2) with (79, 2)
+No swap required
+No swap required
+Swap (76, 5) with (84, 5)
+No swap required
+No swap required
+No swap required
+Swap (76, 9) with (84, 9)
+No swap required
+No swap required
+No swap required
+Swap (76, 13) with (99, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (76, 19) with (77, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (76, 55) with (82, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (76, 88) with (97, 9)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (77, 2) with (80, 2)
+No swap required
+No swap required
+Swap (77, 5) with (85, 5)
+No swap required
+No swap required
+No swap required
+Swap (77, 9) with (85, 9)
+No swap required
+No swap required
+No swap required
+Swap (77, 13) with (92, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (77, 19) with (78, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (77, 55) with (83, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (77, 88) with (79, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (78, 2) with (81, 4)
+No swap required
+No swap required
+Swap (78, 5) with (86, 5)
+No swap required
+No swap required
+No swap required
+Swap (78, 9) with (86, 9)
+No swap required
+No swap required
+No swap required
+Swap (78, 13) with (89, 9)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (78, 19) with (79, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (78, 55) with (84, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (78, 88) with (97, 9)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (79, 1) with (81, 3)
+Swap (79, 2) with (82, 2)
+No swap required
+No swap required
+Swap (79, 5) with (87, 5)
+No swap required
+No swap required
+No swap required
+Swap (79, 9) with (87, 9)
+No swap required
+No swap required
+No swap required
+Swap (79, 13) with (94, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (79, 19) with (80, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (79, 55) with (85, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (79, 88) with (82, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (80, 2) with (83, 2)
+No swap required
+No swap required
+Swap (80, 5) with (88, 95)
+No swap required
+No swap required
+No swap required
+Swap (80, 9) with (88, 9)
+No swap required
+No swap required
+No swap required
+Swap (80, 13) with (95, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (80, 19) with (81, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (80, 55) with (88, 45)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (80, 88) with (97, 9)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (81, 0) with (81, 2)
+No swap required
+Swap (81, 2) with (84, 2)
+Swap (81, 3) with (81, 5)
+Swap (81, 4) with (81, 6)
+Swap (81, 5) with (89, 5)
+Swap (81, 6) with (81, 8)
+Swap (81, 7) with (82, 55)
+Swap (81, 8) with (81, 10)
+Swap (81, 9) with (81, 11)
+Swap (81, 10) with (81, 12)
+Swap (81, 11) with (81, 13)
+Swap (81, 12) with (81, 14)
+Swap (81, 13) with (96, 13)
+Swap (81, 14) with (81, 16)
+Swap (81, 15) with (81, 17)
+Swap (81, 16) with (81, 18)
+Swap (81, 17) with (82, 19)
+Swap (81, 18) with (81, 20)
+Swap (81, 19) with (81, 21)
+Swap (81, 20) with (81, 22)
+Swap (81, 21) with (81, 23)
+Swap (81, 22) with (81, 24)
+Swap (81, 23) with (81, 25)
+Swap (81, 24) with (81, 26)
+Swap (81, 25) with (81, 27)
+Swap (81, 26) with (81, 28)
+Swap (81, 27) with (81, 29)
+Swap (81, 28) with (81, 30)
+Swap (81, 29) with (81, 31)
+Swap (81, 30) with (81, 32)
+Swap (81, 31) with (81, 33)
+Swap (81, 32) with (81, 34)
+Swap (81, 33) with (81, 35)
+Swap (81, 34) with (81, 36)
+Swap (81, 35) with (81, 37)
+Swap (81, 36) with (81, 38)
+Swap (81, 37) with (81, 39)
+Swap (81, 38) with (81, 40)
+Swap (81, 39) with (81, 41)
+Swap (81, 40) with (81, 42)
+Swap (81, 41) with (81, 43)
+Swap (81, 42) with (81, 44)
+Swap (81, 43) with (81, 45)
+Swap (81, 44) with (81, 46)
+Swap (81, 45) with (81, 47)
+Swap (81, 46) with (81, 48)
+Swap (81, 47) with (81, 49)
+Swap (81, 48) with (81, 50)
+Swap (81, 49) with (81, 51)
+Swap (81, 50) with (81, 52)
+Swap (81, 51) with (81, 53)
+Swap (81, 52) with (81, 54)
+Swap (81, 53) with (85, 55)
+Swap (81, 54) with (81, 56)
+Swap (81, 55) with (87, 55)
+Swap (81, 56) with (81, 58)
+Swap (81, 57) with (81, 59)
+Swap (81, 58) with (81, 60)
+Swap (81, 59) with (81, 61)
+Swap (81, 60) with (81, 62)
+Swap (81, 61) with (81, 63)
+Swap (81, 62) with (81, 64)
+Swap (81, 63) with (81, 65)
+Swap (81, 64) with (81, 66)
+Swap (81, 65) with (81, 67)
+Swap (81, 66) with (81, 68)
+Swap (81, 67) with (81, 69)
+Swap (81, 68) with (81, 70)
+Swap (81, 69) with (81, 71)
+Swap (81, 70) with (81, 72)
+Swap (81, 71) with (81, 73)
+Swap (81, 72) with (81, 74)
+Swap (81, 73) with (81, 75)
+Swap (81, 74) with (81, 76)
+Swap (81, 75) with (81, 77)
+Swap (81, 76) with (81, 78)
+Swap (81, 77) with (81, 79)
+Swap (81, 78) with (81, 80)
+Swap (81, 79) with (81, 81)
+Swap (81, 80) with (81, 82)
+Swap (81, 81) with (81, 83)
+Swap (81, 82) with (81, 84)
+Swap (81, 83) with (81, 85)
+Swap (81, 84) with (81, 86)
+Swap (81, 85) with (81, 87)
+Swap (81, 86) with (82, 2)
+Swap (81, 87) with (81, 89)
+Swap (81, 88) with (81, 90)
+Swap (81, 89) with (81, 91)
+Swap (81, 90) with (81, 92)
+Swap (81, 91) with (81, 93)
+Swap (81, 92) with (81, 94)
+Swap (81, 93) with (81, 95)
+Swap (81, 94) with (81, 96)
+Swap (81, 95) with (81, 97)
+Swap (81, 96) with (81, 98)
+Swap (81, 97) with (81, 99)
+Swap (81, 98) with (84, 2)
+Swap (81, 99) with (89, 5)
+No swap required
+No swap required
+Swap (82, 2) with (85, 2)
+No swap required
+No swap required
+Swap (82, 5) with (90, 5)
+No swap required
+No swap required
+No swap required
+Swap (82, 9) with (90, 9)
+No swap required
+No swap required
+No swap required
+Swap (82, 13) with (97, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (82, 19) with (83, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (82, 55) with (88, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (82, 88) with (97, 9)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (83, 2) with (86, 2)
+No swap required
+No swap required
+Swap (83, 5) with (91, 5)
+No swap required
+No swap required
+No swap required
+Swap (83, 9) with (91, 9)
+No swap required
+No swap required
+No swap required
+Swap (83, 13) with (98, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (83, 19) with (84, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (83, 55) with (89, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (83, 88) with (84, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (84, 2) with (87, 2)
+No swap required
+No swap required
+Swap (84, 5) with (92, 5)
+No swap required
+No swap required
+No swap required
+Swap (84, 9) with (92, 9)
+No swap required
+No swap required
+No swap required
+Swap (84, 13) with (99, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (84, 19) with (85, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (84, 55) with (90, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (84, 88) with (97, 9)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (85, 2) with (88, 92)
+No swap required
+No swap required
+Swap (85, 5) with (93, 5)
+No swap required
+No swap required
+No swap required
+Swap (85, 9) with (93, 9)
+No swap required
+No swap required
+No swap required
+Swap (85, 13) with (92, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (85, 19) with (86, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (85, 55) with (91, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (85, 88) with (87, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (86, 1) with (88, 91)
+Swap (86, 2) with (89, 2)
+No swap required
+No swap required
+Swap (86, 5) with (94, 5)
+No swap required
+No swap required
+No swap required
+Swap (86, 9) with (94, 9)
+No swap required
+No swap required
+No swap required
+Swap (86, 13) with (89, 9)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (86, 19) with (87, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (86, 55) with (92, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (86, 88) with (97, 9)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (87, 2) with (90, 2)
+No swap required
+No swap required
+Swap (87, 5) with (95, 5)
+No swap required
+No swap required
+No swap required
+Swap (87, 9) with (95, 9)
+No swap required
+No swap required
+No swap required
+Swap (87, 13) with (94, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (87, 19) with (88, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (87, 55) with (93, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (87, 88) with (90, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (88, 0) with (88, 90)
+No swap required
+Swap (88, 2) with (91, 2)
+Swap (88, 3) with (88, 93)
+Swap (88, 4) with (88, 94)
+Swap (88, 5) with (96, 5)
+Swap (88, 6) with (88, 96)
+Swap (88, 7) with (88, 97)
+Swap (88, 8) with (88, 98)
+Swap (88, 9) with (88, 99)
+Swap (88, 10) with (88, 90)
+Swap (88, 11) with (88, 91)
+Swap (88, 12) with (91, 2)
+Swap (88, 13) with (95, 13)
+Swap (88, 14) with (88, 94)
+Swap (88, 15) with (96, 5)
+Swap (88, 16) with (88, 96)
+Swap (88, 17) with (88, 97)
+Swap (88, 18) with (88, 98)
+Swap (88, 19) with (96, 9)
+Swap (88, 20) with (88, 90)
+Swap (88, 21) with (88, 91)
+Swap (88, 22) with (91, 2)
+Swap (88, 23) with (95, 13)
+Swap (88, 24) with (88, 94)
+Swap (88, 25) with (96, 5)
+Swap (88, 26) with (88, 96)
+Swap (88, 27) with (88, 97)
+Swap (88, 28) with (88, 98)
+Swap (88, 29) with (89, 19)
+Swap (88, 30) with (88, 90)
+Swap (88, 31) with (88, 91)
+Swap (88, 32) with (91, 2)
+Swap (88, 33) with (95, 13)
+Swap (88, 34) with (88, 94)
+Swap (88, 35) with (96, 5)
+Swap (88, 36) with (88, 96)
+Swap (88, 37) with (88, 97)
+Swap (88, 38) with (88, 98)
+Swap (88, 39) with (89, 19)
+Swap (88, 40) with (88, 90)
+Swap (88, 41) with (88, 91)
+Swap (88, 42) with (91, 2)
+Swap (88, 43) with (95, 13)
+Swap (88, 44) with (88, 94)
+Swap (88, 45) with (96, 5)
+Swap (88, 46) with (88, 96)
+Swap (88, 47) with (88, 97)
+Swap (88, 48) with (88, 98)
+Swap (88, 49) with (89, 19)
+Swap (88, 50) with (88, 90)
+Swap (88, 51) with (88, 91)
+Swap (88, 52) with (91, 2)
+Swap (88, 53) with (95, 13)
+Swap (88, 54) with (88, 94)
+Swap (88, 55) with (94, 55)
+Swap (88, 56) with (88, 96)
+Swap (88, 57) with (88, 97)
+Swap (88, 58) with (88, 98)
+Swap (88, 59) with (89, 19)
+Swap (88, 60) with (88, 90)
+Swap (88, 61) with (88, 91)
+Swap (88, 62) with (91, 2)
+Swap (88, 63) with (95, 13)
+Swap (88, 64) with (88, 94)
+Swap (88, 65) with (92, 55)
+Swap (88, 66) with (88, 96)
+Swap (88, 67) with (88, 97)
+Swap (88, 68) with (88, 98)
+Swap (88, 69) with (89, 19)
+Swap (88, 70) with (88, 90)
+Swap (88, 71) with (88, 91)
+Swap (88, 72) with (91, 2)
+Swap (88, 73) with (95, 13)
+Swap (88, 74) with (88, 94)
+Swap (88, 75) with (92, 55)
+Swap (88, 76) with (88, 96)
+Swap (88, 77) with (88, 97)
+Swap (88, 78) with (88, 98)
+Swap (88, 79) with (89, 19)
+Swap (88, 80) with (88, 90)
+Swap (88, 81) with (88, 91)
+Swap (88, 82) with (91, 2)
+Swap (88, 83) with (95, 13)
+Swap (88, 84) with (88, 94)
+Swap (88, 85) with (92, 55)
+Swap (88, 86) with (88, 96)
+Swap (88, 87) with (88, 97)
+Swap (88, 88) with (88, 98)
+Swap (88, 89) with (89, 19)
+No swap required
+No swap required
+Swap (88, 92) with (91, 2)
+Swap (88, 93) with (95, 13)
+No swap required
+Swap (88, 95) with (92, 55)
+No swap required
+No swap required
+Swap (88, 98) with (97, 9)
+Swap (88, 99) with (89, 19)
+No swap required
+No swap required
+Swap (89, 2) with (92, 2)
+No swap required
+No swap required
+Swap (89, 5) with (97, 5)
+No swap required
+No swap required
+No swap required
+Swap (89, 9) with (91, 2)
+No swap required
+No swap required
+No swap required
+Swap (89, 13) with (98, 88)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (89, 19) with (90, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (89, 55) with (95, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (89, 88) with (90, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (90, 2) with (93, 2)
+No swap required
+No swap required
+Swap (90, 5) with (98, 5)
+No swap required
+No swap required
+No swap required
+Swap (90, 9) with (98, 9)
+No swap required
+No swap required
+No swap required
+Swap (90, 13) with (97, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (90, 19) with (91, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (90, 55) with (96, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (90, 88) with (97, 9)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (91, 2) with (94, 2)
+No swap required
+No swap required
+Swap (91, 5) with (99, 5)
+No swap required
+No swap required
+No swap required
+Swap (91, 9) with (99, 9)
+No swap required
+No swap required
+No swap required
+Swap (91, 13) with (98, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (91, 19) with (92, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (91, 55) with (97, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (91, 88) with (93, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (92, 2) with (95, 2)
+No swap required
+No swap required
+Swap (92, 5) with (92, 55)
+No swap required
+No swap required
+No swap required
+Swap (92, 9) with (93, 9)
+No swap required
+No swap required
+No swap required
+Swap (92, 13) with (99, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (92, 19) with (93, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (92, 55) with (98, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (92, 88) with (97, 9)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (93, 2) with (96, 2)
+No swap required
+No swap required
+Swap (93, 5) with (94, 9)
+No swap required
+No swap required
+No swap required
+Swap (93, 9) with (93, 13)
+No swap required
+No swap required
+No swap required
+Swap (93, 13) with (99, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (93, 19) with (94, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (93, 55) with (99, 1)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (93, 88) with (96, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (94, 2) with (97, 2)
+No swap required
+No swap required
+Swap (94, 5) with (98, 88)
+No swap required
+No swap required
+No swap required
+Swap (94, 9) with (95, 9)
+No swap required
+No swap required
+No swap required
+Swap (94, 13) with (97, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (94, 19) with (95, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (94, 55) with (96, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (94, 88) with (97, 9)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (95, 2) with (98, 2)
+No swap required
+No swap required
+Swap (95, 5) with (99, 5)
+No swap required
+No swap required
+No swap required
+Swap (95, 9) with (95, 19)
+No swap required
+No swap required
+No swap required
+Swap (95, 13) with (97, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (95, 19) with (96, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (95, 55) with (97, 5)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (95, 88) with (96, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (96, 2) with (99, 2)
+No swap required
+No swap required
+Swap (96, 5) with (96, 9)
+No swap required
+No swap required
+No swap required
+Swap (96, 9) with (96, 13)
+No swap required
+No swap required
+No swap required
+Swap (96, 13) with (97, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (96, 19) with (97, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (96, 55) with (97, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (96, 88) with (97, 9)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (97, 2) with (98, 5)
+No swap required
+No swap required
+Swap (97, 5) with (97, 19)
+No swap required
+No swap required
+No swap required
+Swap (97, 9) with (98, 9)
+No swap required
+No swap required
+No swap required
+Swap (97, 13) with (97, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (97, 19) with (98, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (97, 55) with (99, 1)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (97, 88) with (99, 2)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (98, 2) with (99, 88)
+No swap required
+No swap required
+Swap (98, 5) with (98, 88)
+No swap required
+No swap required
+No swap required
+Swap (98, 9) with (99, 9)
+No swap required
+No swap required
+No swap required
+Swap (98, 13) with (99, 1)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (98, 19) with (99, 19)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (98, 88) with (99, 9)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (99, 1) with (99, 9)
+Swap (99, 2) with (99, 88)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (99, 9) with (99, 13)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+Swap (99, 19) with (99, 55)
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required
+No swap required

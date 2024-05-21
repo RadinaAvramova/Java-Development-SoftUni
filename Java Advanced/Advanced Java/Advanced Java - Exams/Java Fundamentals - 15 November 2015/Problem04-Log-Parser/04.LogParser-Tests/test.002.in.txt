@@ -1,0 +1,17 @@
+{"Project": ["KBryant"], "Type": ["Warning"], "Message": ["Retirement pending"]}
+{"Project": ["KBryant"], "Type": ["Critical"], "Message": ["6th ring not found"]}
+{"Project": ["SASpurs"], "Type": ["Warning"], "Message": ["LAldrige acquired"]}
+{"Project": ["DRose"], "Type": ["Warning"], "Message": ["Injury may occur"]}
+{"Project": ["DRose"], "Type": ["Critical"], "Message": ["JButtlerNotHappyException"]}
+{"Project": ["SASpurs"], "Type": ["Warning"], "Message": ["DWest acquired"]}
+{"Project": ["SASpurs"], "Type": ["Warning"], "Message": ["KLenard is healthy"]}
+{"Project": ["SASpurs"], "Type": ["Warning"], "Message": ["DGreen is healthy"]}
+{"Project": ["SASpurs"], "Type": ["Warning"], "Message": ["TDuncan is immortal"]}
+{"Project": ["SASpurs"], "Type": ["Critical"], "Message": ["RosterTooStackedException"]}
+{"Project": ["DLilard"], "Type": ["Warning"], "Message": ["LAldrige lost"]}
+{"Project": ["DLilard"], "Type": ["Warning"], "Message": ["WMatthews lost"]}
+{"Project": ["DLilard"], "Type": ["Warning"], "Message": ["NBatum lost"]}
+{"Project": ["DLilard"], "Type": ["Warning"], "Message": ["RLopez lost"]}
+{"Project": ["DLilard"], "Type": ["Critical"], "Message": ["OnlyRookiesLeftException"]}
+{"Project": ["DLilard"], "Type": ["Critical"], "Message": ["ObscurityException"]}
+END

@@ -1,0 +1,17 @@
+KBryant:
+Total Errors: 2
+Critical: 1
+Warnings: 1
+Critical Messages:
+--->6th ring not found
+Warning Messages:
+--->Retirement pending
+
+DRose:
+Total Errors: 1
+Critical: 0
+Warnings: 1
+Critical Messages:
+--->None
+Warning Messages:
+--->Injury may occur

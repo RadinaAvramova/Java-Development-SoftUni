@@ -1,0 +1,7 @@
+{"Project": ["Project1"], "Type": ["Critical"], "Message": ["File not found"]}
+{"Project": ["Project2"], "Type": ["Critical"], "Message": ["IndexOutOfBoundsException"]}
+{"Project": ["Project2"], "Type": ["Critical"], "Message": ["Null Pointer"]}
+{"Project": ["Project1"], "Type": ["Critical"], "Message": ["File not found"]}
+{"Project": ["Project2"], "Type": ["Warning"], "Message": ["Low disk space"]}
+{"Project": ["Project2"], "Type": ["Critical"], "Message": ["AndexOutOfBoundsException"]}
+END

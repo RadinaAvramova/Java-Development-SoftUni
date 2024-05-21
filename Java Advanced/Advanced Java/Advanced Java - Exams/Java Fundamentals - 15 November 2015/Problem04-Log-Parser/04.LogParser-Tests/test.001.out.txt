@@ -1,0 +1,42 @@
+Project3:
+Total Errors: 5
+Critical: 1
+Warnings: 4
+Critical Messages:
+--->OutOfMemoryException
+Warning Messages:
+--->Too many files
+--->Too many files
+--->Too many files
+--->Too many files
+
+Project2:
+Total Errors: 4
+Critical: 3
+Warnings: 1
+Critical Messages:
+--->Null Pointer
+--->AndexOutOfBoundsException
+--->IndexOutOfBoundsException
+Warning Messages:
+--->Low disk space
+
+Project1:
+Total Errors: 2
+Critical: 2
+Warnings: 0
+Critical Messages:
+--->File not found
+--->File not found
+Warning Messages:
+--->None
+
+Project4:
+Total Errors: 2
+Critical: 0
+Warnings: 2
+Critical Messages:
+--->None
+Warning Messages:
+--->Just wanted to let you know that everything is running smoothly
+--->Just wanted to let you know that everything is running smoothly

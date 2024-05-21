@@ -1,0 +1,14 @@
+{"Project": ["Project1"], "Type": ["Critical"], "Message": ["File not found"]}
+{"Project": ["Project2"], "Type": ["Critical"], "Message": ["IndexOutOfBoundsException"]}
+{"Project": ["Project2"], "Type": ["Critical"], "Message": ["Null Pointer"]}
+{"Project": ["Project1"], "Type": ["Critical"], "Message": ["File not found"]}
+{"Project": ["Project2"], "Type": ["Warning"], "Message": ["Low disk space"]}
+{"Project": ["Project2"], "Type": ["Critical"], "Message": ["AndexOutOfBoundsException"]}
+{"Project": ["Project3"], "Type": ["Warning"], "Message": ["Too many files"]}
+{"Project": ["Project3"], "Type": ["Warning"], "Message": ["Too many files"]}
+{"Project": ["Project3"], "Type": ["Warning"], "Message": ["Too many files"]}
+{"Project": ["Project3"], "Type": ["Warning"], "Message": ["Too many files"]}
+{"Project": ["Project3"], "Type": ["Critical"], "Message": ["OutOfMemoryException"]}
+{"Project": ["Project4"], "Type": ["Warning"], "Message": ["Just wanted to let you know that everything is running smoothly"]}
+{"Project": ["Project4"], "Type": ["Warning"], "Message": ["Just wanted to let you know that everything is running smoothly"]}
+END

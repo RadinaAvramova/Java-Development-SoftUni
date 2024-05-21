@@ -1,0 +1,4 @@
+Swap (0, 0) with (1, 1)
+No swap required
+Swap (1, 0) with (1, 1)
+No swap required

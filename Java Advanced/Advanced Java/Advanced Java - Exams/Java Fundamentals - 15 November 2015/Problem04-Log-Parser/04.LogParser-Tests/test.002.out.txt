@@ -1,0 +1,43 @@
+DLilard:
+Total Errors: 6
+Critical: 2
+Warnings: 4
+Critical Messages:
+--->ObscurityException
+--->OnlyRookiesLeftException
+Warning Messages:
+--->NBatum lost
+--->RLopez lost
+--->LAldrige lost
+--->WMatthews lost
+
+SASpurs:
+Total Errors: 6
+Critical: 1
+Warnings: 5
+Critical Messages:
+--->RosterTooStackedException
+Warning Messages:
+--->DWest acquired
+--->DGreen is healthy
+--->LAldrige acquired
+--->KLenard is healthy
+--->TDuncan is immortal
+
+DRose:
+Total Errors: 2
+Critical: 1
+Warnings: 1
+Critical Messages:
+--->JButtlerNotHappyException
+Warning Messages:
+--->Injury may occur
+
+KBryant:
+Total Errors: 2
+Critical: 1
+Warnings: 1
+Critical Messages:
+--->6th ring not found
+Warning Messages:
+--->Retirement pending
