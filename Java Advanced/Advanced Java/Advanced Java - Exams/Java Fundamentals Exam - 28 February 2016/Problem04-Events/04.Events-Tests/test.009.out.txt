@@ -1,0 +1,11 @@
+aaa:
+1. GOshO -> 12:03
+2. GOsho -> 12:04
+3. GoSho -> 12:05
+4. GosHo -> 12:06
+5. GoshO -> 12:07
+6. Gosho -> 12:08
+7. gOsho -> 12:09
+8. goSho -> 12:10
+9. gosHo -> 12:11
+10. goshO -> 12:12
