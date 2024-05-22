@@ -1,0 +1,10 @@
+Rectangle | CalculateArea | Bla
+Rectangle | CalculateArea | Bla2
+Rectangle | CalculateArea | Bla3
+Rectangle | CalculateArea | Bla4
+Circles | CalculateArea | Bla
+Circles | CalculateArea | Bla2
+Circles | CalculateArea | Bla3
+Circles | CalculateArea | Bla4
+ASd | ASd | ASd
+It's testing time!

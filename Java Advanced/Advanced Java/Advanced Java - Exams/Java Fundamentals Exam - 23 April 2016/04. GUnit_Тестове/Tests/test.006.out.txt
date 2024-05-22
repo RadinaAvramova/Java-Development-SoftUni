@@ -1,0 +1,11 @@
+Poker:
+##Hand
+####RoyalFlushWithJoker
+####RoyalFlushWithoutAce
+####RoyalFlushWithoutKing
+####RoyalFlushWithoutQueen1
+Belotes:
+##Hand
+####Bla123
+##Something
+####SomeTest

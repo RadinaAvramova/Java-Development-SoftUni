@@ -1,0 +1,5 @@
+Line: [1, 2, 3, 4]
+Line: [2, 3, 4, 1]
+Line: [3, 4, 1, 2]
+Line: [4, 1, 2, 3]
+Critical Breakpoint: 0

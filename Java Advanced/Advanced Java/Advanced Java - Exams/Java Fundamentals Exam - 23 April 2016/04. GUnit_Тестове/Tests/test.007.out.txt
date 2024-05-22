@@ -1,0 +1,12 @@
+Eclipse:
+##NewProject
+####NewProjectWIthName
+####NewProjectWithNoName
+##NewClass
+####WithMyAss
+IntelliJ:
+##NewProject
+####NothingToTestHere
+####NothingToTestHereAllIsWorking
+##NewClass
+####WithEclipseAss

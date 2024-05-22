@@ -1,0 +1,12 @@
+WhiteBoard | New | NewWhiteboardWithRoyalDrawedOnIt
+WhiteBoard | ClearContents | ClearContentsWithNoContents
+WhiteBoard | Draw | DrawRectangleWithNoParams
+WhiteBoard | New | NewWhiteboardWithNoparams
+WhiteBoard | ClearContents | ClearContentsWithOneContent
+WhiteBoard | Draw | DrawTriangleWithTwoParams
+WhiteBoard | New | NewWhiteboardWithShit
+WhiteBoard | ClearContents | ClearContentsWithTwoContents
+WhiteBoard | Draw | DrawBullshitWithSixParams
+whiteBoard | Draw | Draw
+WhiteBoard | WhiteBoard | WhiteBoard | WhiteBoard
+It's testing time!

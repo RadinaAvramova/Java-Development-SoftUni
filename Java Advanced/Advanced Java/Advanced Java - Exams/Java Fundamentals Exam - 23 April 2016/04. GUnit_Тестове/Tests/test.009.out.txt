@@ -1,0 +1,10 @@
+Merry:
+##ExamTaking
+####TakeExamWithNoKnowledge
+####TakeExamWithFullKnowledge
+####TakeExamWithSomeKnowledge
+Todor:
+##ExamTaking
+####NoTake
+##ExamTesting
+####TestExamWithoutTests

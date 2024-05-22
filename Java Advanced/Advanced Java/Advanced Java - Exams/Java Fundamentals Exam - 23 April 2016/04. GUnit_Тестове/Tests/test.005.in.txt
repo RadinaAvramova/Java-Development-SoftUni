@@ -1,0 +1,14 @@
+Alphanumeral | Order | OrderWithNoOrder3
+Alphabetical | Order | OrderWithNoOrder
+Alphabetical | Order | OrderWithNoOrder2
+Alphanumeral | Disorder | GetIntegralledNoob
+Alphanumeral | Disorder | GetPIdNoob
+Alphabetical | Order | OrderWithNoOrder3
+Alphanumeral | Order | OrderWithNoOrder2
+Alphabetical | Order | OrderWithNoOrder4
+Alphanumeral | Disorder | GetFunctionedNoobs
+Alphabetical | Order | OrderWithNoOrder5
+Alphabetical | ReverseOrder | ReverseOrderWithNoOrder
+Alphanumeral | Order | OrderWithNoOrder
+Alphanumeral | Alphanumeral | Alphanumberal | Alphanumeral
+It's testing time!

@@ -1,0 +1,13 @@
+WhiteBoard:
+##ClearContents
+####ClearContentsWithNoContents
+####ClearContentsWithOneContent
+####ClearContentsWithTwoContents
+##Draw
+####DrawBullshitWithSixParams
+####DrawRectangleWithNoParams
+####DrawTriangleWithTwoParams
+##New
+####NewWhiteboardWithShit
+####NewWhiteboardWithNoparams
+####NewWhiteboardWithRoyalDrawedOnIt

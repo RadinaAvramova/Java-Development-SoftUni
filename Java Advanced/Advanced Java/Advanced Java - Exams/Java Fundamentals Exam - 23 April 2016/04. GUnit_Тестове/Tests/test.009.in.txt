@@ -1,0 +1,10 @@
+Merry | ExamTaking | TakeExamWithSomeKnowledge
+Merry | ExamTaking | TakeExamWithFullKnowledge
+Merry | ExamTaking | TakeExamWithNoKnowledge
+Todor | ExamTesting | TestExamWithoutTests
+Todor | ExamTesting | TestExamWithoutTest s
+Todor | ExamTesting | TestExamWithoutTests
+Todor  |  ExamTesting  |  TestExamWithoutTests
+Todor | ExamTaking | NoTake
+Merry | Merry | Merry | Merry
+It's testing time!

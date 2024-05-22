@@ -1,0 +1,14 @@
+Eclipse | NewProject | NewProjectWithNoName
+Eclipse | NewProject | NewProjectWithNameasdf@
+Eclipse | NewProject | NewProjectWIthName
+Eclipse | NewProject | -name
+Eclipse | NewClass | WithMyAss
+Eclipse | Eclipse | Eclipse | Eclipse
+IntelliJ | NewProject | NothingToTestHere
+IntelliJ | NewProject | NothingToTestHere
+IntelliJ | NewProject | NothingToTestHere
+IntelliJ | NewProject | NothingToTestHere_AllIsWorking
+IntelliJ | NewProject | Nothing To Test Here. Everything is working properly.
+IntelliJ | NewProject | NothingToTestHereAllIsWorking
+IntelliJ | NewClass | WithEclipseAss
+It's testing time!

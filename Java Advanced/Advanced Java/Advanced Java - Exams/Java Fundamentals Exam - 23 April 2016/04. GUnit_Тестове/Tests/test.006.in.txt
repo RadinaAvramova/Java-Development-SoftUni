@@ -1,0 +1,10 @@
+Poker | Hand | RoyalFlushWithoutAce
+Poker | Hand | RoyalFlushWithoutKing
+Poker | Hand | RoyalFlushWithoutQueen1
+Poker | Hand | RoyalFlushWithJoker
+Poker | Hand | RoyalFlushWithoutT_en
+Poker | Poker | Poker | Poker
+Belotes | Hand | Bla123
+Belotes | -19284912 | Bullshit@
+Belotes | Something | SomeTest
+It's testing time!

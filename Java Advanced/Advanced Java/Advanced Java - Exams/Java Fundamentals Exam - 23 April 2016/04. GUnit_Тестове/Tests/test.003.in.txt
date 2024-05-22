@@ -1,0 +1,21 @@
+Royal | CheckExams | CheckExamsWithNoExams
+Royal | CheckExams | CheckExamsWithOneExam
+Royal | CheckExams | CheckExamsWithIvoExam
+Royal | PresentLecture | PresentLectureWithNoLectures
+Royal | PresentLecture | PresentLectureWithOneLecture
+Royal | PresentLecture | PresentLectureWithNoRoyal
+Royal | TeachKotlin | TeachKotlinWithoutKotlin
+Royal | TeachKotlin | TeachKotlinWithoutKnowledge
+Royal | TeachKotlin | TeachKotlin_WithAnUnderscore
+Layor | CheckExams | Hah
+Layor | Layor | Layor | Layor
+Layor | CheckExams | HAh
+Layor | CheckExams | HAH
+Layor | CheckExams | Aha
+Layor | CheckExams | AHa
+Layor | CheckExams | AHAa
+Layor | CheckExams | Ahh
+Layor | CheckExams | AHh
+Layor | CheckExams | aHH
+Layor | CheckExams | Ahh
+It's testing time!
