@@ -1,0 +1,28 @@
+Successfully created Core A!
+Successfully created Core B!
+Failed to attach Fragment A32!
+Currently selected Core A!
+Successfully attached Fragment A64 to Core A!
+Successfully attached Fragment A72 to Core A!
+Lambda Core Power Plant Status:
+Total Durability: 3000
+Total Cores: 2
+Total Fragments: 2
+Core A:
+####Durability: 2000
+####Status: NORMAL
+Core B:
+####Durability: 1000
+####Status: NORMAL
+Currently selected Core B!
+Successfully attached Fragment B12 to Core B!
+Lambda Core Power Plant Status:
+Total Durability: 2500
+Total Cores: 2
+Total Fragments: 3
+Core A:
+####Durability: 2000
+####Status: NORMAL
+Core B:
+####Durability: 500
+####Status: CRITICAL

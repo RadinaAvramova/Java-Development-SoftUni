@@ -1,0 +1,11 @@
+CreateCore:@System@2000
+CreateCore:@System@1000
+AttachFragment:@Cooling@A32@100
+SelectCore:@A
+AttachFragment:@Cooling@A64@200
+AttachFragment:@Cooling@A72@300
+Status:
+SelectCore:@B
+AttachFragment:@Nuclear@B12@250
+Status:
+System Shutdown!

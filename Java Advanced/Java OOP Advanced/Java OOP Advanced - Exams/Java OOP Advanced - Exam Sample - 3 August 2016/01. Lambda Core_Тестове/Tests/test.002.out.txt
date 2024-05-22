@@ -1,0 +1,31 @@
+Successfully created Core A!
+Successfully created Core B!
+Currently selected Core B!
+Successfully attached Fragment C-4 to Core B!
+Successfully attached Fragment D-4 to Core B!
+Currently selected Core A!
+Successfully attached Fragment A-1 to Core A!
+Lambda Core Power Plant Status:
+Total Durability: 6000
+Total Cores: 2
+Total Fragments: 3
+Core A:
+####Durability: 5000
+####Status: NORMAL
+Core B:
+####Durability: 1000
+####Status: NORMAL
+Successfully created Core C!
+Successfully detached Fragment A-1 from Core A!
+Successfully removed Core A!
+Failed to attach Fragment A-5!
+Lambda Core Power Plant Status:
+Total Durability: 2000
+Total Cores: 2
+Total Fragments: 2
+Core B:
+####Durability: 1000
+####Status: NORMAL
+Core C:
+####Durability: 1000
+####Status: NORMAL
