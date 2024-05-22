@@ -1,0 +1,2 @@
+249 shards 249 fragments 249 motes 8 linen 5 silver 123 silk 22 embersilk
+13 alpha-gems 0 shards 0 fragments 1 motes

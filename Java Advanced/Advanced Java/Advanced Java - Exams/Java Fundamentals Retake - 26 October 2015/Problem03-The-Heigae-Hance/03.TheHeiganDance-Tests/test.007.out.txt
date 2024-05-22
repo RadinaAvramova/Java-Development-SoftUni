@@ -1,0 +1,3 @@
+Heigan: Defeated!
+Player: 11500
+Final position: 12, 7

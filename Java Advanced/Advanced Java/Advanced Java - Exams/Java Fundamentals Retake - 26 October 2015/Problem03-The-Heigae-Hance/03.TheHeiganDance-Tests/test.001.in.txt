@@ -1,0 +1,26 @@
+123123.1
+Eruption 7 6
+Eruption 7 7
+Eruption 7 8
+Eruption 7 9
+Eruption 7 10
+Eruption 7 11
+Eruption 7 12
+Eruption 8 13
+Eruption 7 14
+Eruption 6 14
+Eruption 5 14
+Eruption 4 14
+Eruption 3 14
+Eruption 2 14
+Eruption 1 15
+Eruption 0 14
+Eruption 0 13
+Eruption 0 12
+Eruption 0 11
+Eruption 0 10
+Eruption 0 9
+Eruption 0 8
+Eruption 0 7
+Eruption 0 6
+Eruption 0 5

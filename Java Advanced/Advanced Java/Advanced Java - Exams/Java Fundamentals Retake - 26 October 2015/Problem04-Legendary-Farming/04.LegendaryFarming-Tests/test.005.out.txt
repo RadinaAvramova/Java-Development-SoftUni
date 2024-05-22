@@ -1,0 +1,8 @@
+Valanyr obtained!
+motes: 132
+shards: 124
+fragments: 17
+gem: 1
+gems: 92
+spi_ritshards: 12
+spirit-shards: 238

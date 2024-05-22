@@ -1,0 +1,3 @@
+Heigan: 2960000.00
+Player: Killed by Eruption
+Final position: 8, 7

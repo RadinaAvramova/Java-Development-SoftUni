@@ -1,0 +1,4 @@
+Shadowmourne obtained!
+shards: 8
+fragments: 0
+motes: 0

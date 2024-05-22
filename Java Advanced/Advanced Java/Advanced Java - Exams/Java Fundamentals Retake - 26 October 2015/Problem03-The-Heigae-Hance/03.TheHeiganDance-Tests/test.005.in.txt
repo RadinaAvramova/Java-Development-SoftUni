@@ -1,0 +1,13 @@
+250000.15
+Eruption 14 14
+Eruption 6 7
+Eruption 7 7
+Cloud 8 7
+Cloud 10 6
+Cloud 10 7
+Eruption 10 10
+Eruption 10 9
+Eruption 10 8
+Eruption 10 7
+Cloud 10 5
+Cloud 10 4

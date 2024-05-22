@@ -1,0 +1,5 @@
+Shadowmourne obtained!
+fragments: 240
+motes: 240
+shards: 5
+linen: 1420

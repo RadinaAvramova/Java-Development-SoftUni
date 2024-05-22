@@ -1,0 +1,8 @@
+498781.84
+Eruption 6 8
+Eruption 7 7
+Eruption 8 7
+Eruption 9 7
+Eruption 10 7
+Cloud 12 7
+Eruption 12 7

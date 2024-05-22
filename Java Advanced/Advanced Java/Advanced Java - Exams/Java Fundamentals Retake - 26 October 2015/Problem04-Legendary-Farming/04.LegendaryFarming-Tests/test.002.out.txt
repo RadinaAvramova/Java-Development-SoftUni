@@ -1,0 +1,6 @@
+Shadowmourne obtained!
+motes: 144
+fragments: 0
+shards: 0
+leather: 39
+leathers: 186

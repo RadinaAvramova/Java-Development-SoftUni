@@ -1,0 +1,9 @@
+Dragonwrath obtained!
+fragments: 249
+shards: 249
+motes: 0
+alpha-gems: 13
+embersilk: 22
+linen: 8
+silk: 123
+silver: 5

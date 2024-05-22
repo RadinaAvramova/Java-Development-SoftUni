@@ -1,0 +1,6 @@
+Valanyr obtained!
+fragments: 5
+shards: 5
+motes: 3
+leathers: 6
+stones: 5

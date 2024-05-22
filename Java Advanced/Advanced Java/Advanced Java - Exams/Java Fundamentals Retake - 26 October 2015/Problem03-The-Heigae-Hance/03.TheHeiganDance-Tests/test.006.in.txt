@@ -1,0 +1,13 @@
+123.12
+Eruption 10 10
+Cloud 8 6
+Cloud 11 8
+Cloud 7 7
+Eruption 6 7
+Eruption 5 7
+Eruption 3 7
+Eruption 3 7
+Eruption 3 7
+Eruption 3 7
+Cloud 3 7
+Cloud 3 7

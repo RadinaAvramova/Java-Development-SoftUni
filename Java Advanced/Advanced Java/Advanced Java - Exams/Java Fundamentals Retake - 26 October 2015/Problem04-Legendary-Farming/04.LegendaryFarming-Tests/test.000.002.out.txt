@@ -1,0 +1,6 @@
+Dragonwrath obtained!
+shards: 22
+motes: 19
+fragments: 0
+fangs: 9
+silver: 123

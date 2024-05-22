@@ -1,0 +1,2 @@
+77 heavy-leather 123 light-leather
+789 fragments 8889 fragments 88123 motes

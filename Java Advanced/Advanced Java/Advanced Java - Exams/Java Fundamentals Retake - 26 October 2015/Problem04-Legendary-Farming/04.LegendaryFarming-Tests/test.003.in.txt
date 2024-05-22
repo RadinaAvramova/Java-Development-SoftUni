@@ -1,0 +1,6 @@
+8 iron
+3 gold
+7 silver 15 shards
+15 onions 236 shards
+8 freshwater
+9 souls

@@ -1,0 +1,8 @@
+500000
+Cloud 7 6
+Eruption 7 8
+Eruption 7 7
+Cloud 7 8
+Eruption 7 9
+Eruption 6 14
+Eruption 7 11

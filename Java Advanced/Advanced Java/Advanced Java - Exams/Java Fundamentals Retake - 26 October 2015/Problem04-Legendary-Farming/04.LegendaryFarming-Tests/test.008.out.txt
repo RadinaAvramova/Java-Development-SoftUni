@@ -1,0 +1,5 @@
+Valanyr obtained!
+fragments: 120148
+motes: 0
+shards: 0
+heavy-stones: 1231800

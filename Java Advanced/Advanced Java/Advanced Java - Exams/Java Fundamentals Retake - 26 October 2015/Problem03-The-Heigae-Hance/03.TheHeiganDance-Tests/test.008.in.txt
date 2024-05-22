@@ -1,0 +1,12 @@
+10298.08
+Cloud 8 8
+Cloud 7 7
+Cloud 6 7
+Cloud 5 7
+Cloud 4 7
+Cloud 3 7
+Cloud 1 7
+Cloud 2 7
+Cloud 1 7
+Cloud 1 7
+Eruption 1 7

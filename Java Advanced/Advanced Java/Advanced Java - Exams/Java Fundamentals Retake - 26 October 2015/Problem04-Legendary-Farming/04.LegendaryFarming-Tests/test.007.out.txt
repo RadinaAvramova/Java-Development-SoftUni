@@ -1,0 +1,6 @@
+Valanyr obtained!
+fragments: 539
+motes: 0
+shards: 0
+heavy-leather: 77
+light-leather: 123

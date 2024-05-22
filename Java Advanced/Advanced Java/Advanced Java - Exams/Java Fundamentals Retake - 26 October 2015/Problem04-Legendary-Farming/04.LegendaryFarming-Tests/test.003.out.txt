@@ -1,0 +1,8 @@
+Shadowmourne obtained!
+shards: 1
+fragments: 0
+motes: 0
+gold: 3
+iron: 8
+onions: 15
+silver: 7
