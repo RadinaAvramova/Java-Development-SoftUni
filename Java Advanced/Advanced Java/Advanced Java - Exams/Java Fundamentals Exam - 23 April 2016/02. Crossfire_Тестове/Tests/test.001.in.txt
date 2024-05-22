@@ -1,0 +1,3 @@
+2 5
+1 9 5
+Nuke it from orbit
