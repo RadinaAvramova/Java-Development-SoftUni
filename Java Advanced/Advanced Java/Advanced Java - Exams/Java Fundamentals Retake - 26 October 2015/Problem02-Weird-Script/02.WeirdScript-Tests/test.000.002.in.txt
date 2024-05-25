@@ -1,0 +1,4 @@
+79
+AAthat'sAAAA
+One big string !AA
+End
