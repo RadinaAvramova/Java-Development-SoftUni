@@ -1,0 +1,7 @@
+67
+5
+tents 1 normal
+food 2 zakuska
+food 3 zakuska
+tents 21 firstClass
+rooms 1 triple

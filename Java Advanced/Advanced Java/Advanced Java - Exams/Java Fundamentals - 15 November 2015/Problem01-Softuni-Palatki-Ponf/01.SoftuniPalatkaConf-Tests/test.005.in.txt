@@ -1,0 +1,7 @@
+0
+5
+food 100 zakuska
+food 50 musaka
+tents 3 firstClass
+rooms 2 single
+rooms 2 single

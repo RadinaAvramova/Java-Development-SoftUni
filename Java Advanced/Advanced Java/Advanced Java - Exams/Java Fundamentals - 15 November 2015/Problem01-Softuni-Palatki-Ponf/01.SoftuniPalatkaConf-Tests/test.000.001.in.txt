@@ -1,0 +1,6 @@
+10
+4
+tents 2 firstClass
+rooms 3 double
+rooms 1 single
+food 17 musaka

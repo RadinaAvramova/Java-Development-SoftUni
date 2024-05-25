@@ -1,0 +1,4 @@
+15
+2
+rooms 5 double
+food 10 zakuska

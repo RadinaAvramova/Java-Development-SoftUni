@@ -1,0 +1,7 @@
+10
+5
+food 2 musaka
+food 3 musaka
+tents 6 firstClass
+tents 2 normal
+food 1 zakuska

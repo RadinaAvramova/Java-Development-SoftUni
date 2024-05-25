@@ -1,0 +1,9 @@
+99
+7
+tents 32 firstClass
+rooms 1 double
+food 49 musaka
+food 99 zakuska
+food 0 zakuska
+food 15 zakuska
+food 55 zakuska

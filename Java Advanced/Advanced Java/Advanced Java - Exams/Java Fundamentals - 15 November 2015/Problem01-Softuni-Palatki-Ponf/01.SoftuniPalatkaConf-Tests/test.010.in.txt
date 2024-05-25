@@ -1,0 +1,4 @@
+10
+2
+food 6 musaka
+rooms 6 double

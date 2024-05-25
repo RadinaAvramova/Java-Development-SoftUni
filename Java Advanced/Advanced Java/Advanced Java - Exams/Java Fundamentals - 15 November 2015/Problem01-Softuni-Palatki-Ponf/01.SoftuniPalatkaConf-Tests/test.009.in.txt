@@ -1,0 +1,10 @@
+5
+8
+food 0 zakuska
+rooms 12 triple
+rooms 8 double
+rooms 11 single
+tents 10 normal
+tents 5 firstClass
+food 54 musaka
+food 50 musaka

@@ -1,0 +1,7 @@
+11
+5
+tents 5 normal
+rooms 1 single
+rooms 1 single
+food 87 zakuska
+food 6 musaka

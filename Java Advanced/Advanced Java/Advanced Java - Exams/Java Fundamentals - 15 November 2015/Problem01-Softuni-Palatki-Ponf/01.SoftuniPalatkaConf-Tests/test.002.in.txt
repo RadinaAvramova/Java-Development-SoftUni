@@ -1,0 +1,5 @@
+50
+3
+tents 2 normal
+tents 15 firstClass
+food 24 musaka
