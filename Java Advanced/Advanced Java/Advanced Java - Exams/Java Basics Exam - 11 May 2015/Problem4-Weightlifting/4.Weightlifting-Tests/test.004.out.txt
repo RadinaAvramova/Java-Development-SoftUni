@@ -1,0 +1,2 @@
+bang : bench - 100 kg, deadlift - 200 kg, squat - 100 kg
+bing : bench - 100 kg, deadlift - 200 kg, squat - 100 kg

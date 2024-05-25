@@ -1,0 +1,6 @@
+5
+Mark Squat 500 kg
+John Deadlift 220 kg
+Mark Squat 50 kg
+Mark Deadlift 120 kg
+John Squat 200 kg

@@ -1,0 +1,9 @@
+8
+bing bench 100 kg
+bang squat 100 kg
+bing deadlift 100 kg
+bang deadlift 100 kg
+bing deadlift 100 kg
+bang bench 100 kg
+bing squat 100 kg
+bang deadlift 100 kg

@@ -1,0 +1,5 @@
+brisko : bench - 245 kg, curl - 10 kg
+cisko : bench - 40 kg, curl - 80 kg, deadlift - 300 kg
+drisko : bench - 55 kg, curl - 310 kg, deadlift - 200 kg
+grisko : bench - 422 kg, curl - 44 kg, deadlift - 400 kg
+krisko : bench - 733 kg, curl - 800 kg, deadlift - 333 kg

@@ -1,0 +1,3 @@
+jam : bench - 165 kg, deadlift - 165 kg, squat - 275 kg
+jim : bench - 99 kg, deadlift - 33 kg, squat - 66 kg
+peshoOOD : bench - 400 kg, deadlift - 200 kg

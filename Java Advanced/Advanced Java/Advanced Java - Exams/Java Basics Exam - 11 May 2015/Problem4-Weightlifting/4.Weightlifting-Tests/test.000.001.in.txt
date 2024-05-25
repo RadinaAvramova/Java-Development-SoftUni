@@ -1,0 +1,7 @@
+6
+Jack Squat 200 kg
+John Deadlift 220 kg
+John Squat 150 kg
+Jack Deadlift 120 kg
+John Benchpress 200 kg
+John Squat 140 kg 

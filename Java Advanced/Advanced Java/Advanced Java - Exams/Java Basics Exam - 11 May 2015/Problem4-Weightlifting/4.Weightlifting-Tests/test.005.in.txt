@@ -1,0 +1,8 @@
+7
+a bench 40 kg
+b bench 40 kg
+c bench 40 kg
+d bench 40 kg
+e bench 40 kg
+f bench 40 kg
+g bench 40 kg
